@@ -1,0 +1,1140 @@
+﻿Branch_Code,Branch,Profile_Code,Profile,Collection_Code,Collection,Number_of_Loan_Transactions,ObjectId
+BH,Blackburn Hamlet,ADULT,Adult,TEENFNF,Teen French Non-Fiction,3,1
+BH,Blackburn Hamlet,J,Juvenile,AEF,Adult English Fiction,109,2
+BH,Blackburn Hamlet,J,Juvenile,AEM,Adult English Mystery,14,3
+BH,Blackburn Hamlet,J,Juvenile,AENF,Adult English Non-Fiction,206,4
+BH,Blackburn Hamlet,J,Juvenile,AFF,Adult French Fiction,10,5
+BH,Blackburn Hamlet,J,Juvenile,AFNF,Adult French Fiction,48,6
+BH,Blackburn Hamlet,J,Juvenile,JEF,Juvenile Fiction,782,7
+BH,Blackburn Hamlet,J,Juvenile,JENF,Juvenile Non-Fiction,852,8
+BH,Blackburn Hamlet,J,Juvenile,TEENEF,Teen English Fiction,218,9
+BH,Blackburn Hamlet,J,Juvenile,TEENENF,Teen English Non-Fiction,7,10
+BH,Blackburn Hamlet,J,Juvenile,TEENFF,Teen French Fiction,14,11
+BH,Blackburn Hamlet,YA_17,Young Adult,AEF,Adult English Fiction,1,12
+BH,Blackburn Hamlet,YA_17,Young Adult,AEM,Adult English Mystery,1,13
+BH,Blackburn Hamlet,YA_17,Young Adult,AENF,Adult English Non-Fiction,4,14
+BH,Blackburn Hamlet,YA_17,Young Adult,AFF,Adult French Fiction,7,15
+BH,Blackburn Hamlet,YA_17,Young Adult,AFNF,Adult French Fiction,4,16
+CA,Carlingwood,ADULT,Adult,AECD,Adult English Books On CD,1694,17
+CA,Carlingwood,ADULT,Adult,AEF,Adult English Fiction,24230,18
+CA,Carlingwood,ADULT,Adult,AEM,Adult English Mystery,15035,19
+CA,Carlingwood,ADULT,Adult,AENF,Adult English Non-Fiction,47831,20
+CA,Carlingwood,ADULT,Adult,AFCD,Adult French Books On CD,26,21
+CA,Carlingwood,ADULT,Adult,AFF,Adult French Fiction,1641,22
+CA,Carlingwood,ADULT,Adult,AFNF,Adult French Fiction,1510,23
+CA,Carlingwood,ADULT,Adult,JEF,Juvenile Fiction,9739,24
+CA,Carlingwood,ADULT,Adult,JENF,Juvenile Non-Fiction,10835,25
+CA,Carlingwood,ADULT,Adult,JFCD,Juvenile French Books On CD,9,26
+CA,Carlingwood,ADULT,Adult,KIOSK,Kiosk Items,1,27
+CA,Carlingwood,ADULT,Adult,TEENEBCD,Teen English Books On CD,31,28
+CA,Carlingwood,ADULT,Adult,TEENEF,Teen English Fiction,2299,29
+CA,Carlingwood,ADULT,Adult,TEENENF,Teen English Non-Fiction,370,30
+CA,Carlingwood,ADULT,Adult,TEENFF,Teen French Fiction,80,31
+CA,Carlingwood,ADULT,Adult,TEENFNF,Teen French Non-Fiction,1,32
+CA,Carlingwood,J,Juvenile,AECD,Adult English Books On CD,7,33
+CA,Carlingwood,J,Juvenile,AEF,Adult English Fiction,319,34
+CA,Carlingwood,J,Juvenile,AEM,Adult English Mystery,72,35
+CA,Carlingwood,J,Juvenile,AENF,Adult English Non-Fiction,775,36
+CA,Carlingwood,J,Juvenile,AFF,Adult French Fiction,24,37
+CA,Carlingwood,J,Juvenile,AFNF,Adult French Fiction,61,38
+CA,Carlingwood,J,Juvenile,JEF,Juvenile Fiction,3127,39
+CA,Carlingwood,J,Juvenile,JENF,Juvenile Non-Fiction,3652,40
+CA,Carlingwood,J,Juvenile,JFCD,Juvenile French Books On CD,2,41
+CA,Carlingwood,J,Juvenile,TEENEBCD,Teen English Books On CD,9,42
+CA,Carlingwood,J,Juvenile,TEENEF,Teen English Fiction,821,43
+CA,Carlingwood,J,Juvenile,TEENENF,Teen English Non-Fiction,66,44
+CA,Carlingwood,J,Juvenile,TEENFF,Teen French Fiction,30,45
+CA,Carlingwood,YA_17,Young Adult,AECD,Adult English Books On CD,1,46
+CA,Carlingwood,YA_17,Young Adult,AEF,Adult English Fiction,75,47
+CA,Carlingwood,YA_17,Young Adult,AEM,Adult English Mystery,15,48
+CA,Carlingwood,YA_17,Young Adult,AENF,Adult English Non-Fiction,101,49
+CA,Carlingwood,YA_17,Young Adult,AFF,Adult French Fiction,2,50
+EA,Elmvale Acres,J,Juvenile,TEENENF,Teen English Non-Fiction,13,51
+EA,Elmvale Acres,J,Juvenile,TEENFF,Teen French Fiction,10,52
+EA,Elmvale Acres,YA_17,Young Adult,AEF,Adult English Fiction,8,53
+EA,Elmvale Acres,YA_17,Young Adult,AEM,Adult English Mystery,1,54
+EA,Elmvale Acres,YA_17,Young Adult,AENF,Adult English Non-Fiction,8,55
+EA,Elmvale Acres,YA_17,Young Adult,AFF,Adult French Fiction,5,56
+EA,Elmvale Acres,YA_17,Young Adult,AFNF,Adult French Fiction,1,57
+EA,Elmvale Acres,YA_17,Young Adult,JEF,Juvenile Fiction,2,58
+EA,Elmvale Acres,YA_17,Young Adult,TEENEF,Teen English Fiction,3,59
+EA,Elmvale Acres,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,1,60
+EA,Elmvale Acres,YA_17,Young Adult,TEENFF,Teen French Fiction,4,61
+EP,Emerald Plaza,ADULT,Adult,AECD,Adult English Books On CD,1522,62
+EP,Emerald Plaza,ADULT,Adult,AEF,Adult English Fiction,15539,63
+EP,Emerald Plaza,ADULT,Adult,AEM,Adult English Mystery,8012,64
+EP,Emerald Plaza,ADULT,Adult,AENF,Adult English Non-Fiction,25239,65
+EP,Emerald Plaza,ADULT,Adult,AFCD,Adult French Books On CD,43,66
+EP,Emerald Plaza,ADULT,Adult,AFF,Adult French Fiction,641,67
+EP,Emerald Plaza,ADULT,Adult,AFNF,Adult French Fiction,780,68
+EP,Emerald Plaza,ADULT,Adult,JEF,Juvenile Fiction,4493,69
+EP,Emerald Plaza,ADULT,Adult,JENF,Juvenile Non-Fiction,6478,70
+EP,Emerald Plaza,ADULT,Adult,JFCD,Juvenile French Books On CD,10,71
+EP,Emerald Plaza,ADULT,Adult,KIOSK,Kiosk Items,2,72
+EP,Emerald Plaza,ADULT,Adult,TEENEBCD,Teen English Books On CD,21,73
+EP,Emerald Plaza,ADULT,Adult,TEENEF,Teen English Fiction,1377,74
+EP,Emerald Plaza,ADULT,Adult,TEENENF,Teen English Non-Fiction,160,75
+EP,Emerald Plaza,ADULT,Adult,TEENFBCD,Teen French Books On CD,1,76
+EP,Emerald Plaza,ADULT,Adult,TEENFF,Teen French Fiction,49,77
+EP,Emerald Plaza,ADULT,Adult,TEENFNF,Teen French Non-Fiction,1,78
+EP,Emerald Plaza,J,Juvenile,AECD,Adult English Books On CD,19,79
+EP,Emerald Plaza,J,Juvenile,AEF,Adult English Fiction,192,80
+EP,Emerald Plaza,J,Juvenile,AEM,Adult English Mystery,38,81
+EP,Emerald Plaza,J,Juvenile,AENF,Adult English Non-Fiction,615,82
+EP,Emerald Plaza,J,Juvenile,AFF,Adult French Fiction,7,83
+EP,Emerald Plaza,J,Juvenile,AFNF,Adult French Fiction,15,84
+EP,Emerald Plaza,J,Juvenile,JEF,Juvenile Fiction,1748,85
+EP,Emerald Plaza,J,Juvenile,JENF,Juvenile Non-Fiction,1659,86
+EP,Emerald Plaza,J,Juvenile,JFCD,Juvenile French Books On CD,10,87
+EP,Emerald Plaza,J,Juvenile,TEENEBCD,Teen English Books On CD,1,88
+EP,Emerald Plaza,J,Juvenile,TEENEF,Teen English Fiction,401,89
+EP,Emerald Plaza,J,Juvenile,TEENENF,Teen English Non-Fiction,40,90
+EP,Emerald Plaza,J,Juvenile,TEENFF,Teen French Fiction,10,91
+EP,Emerald Plaza,YA_17,Young Adult,AEF,Adult English Fiction,34,92
+EP,Emerald Plaza,YA_17,Young Adult,AEM,Adult English Mystery,10,93
+EP,Emerald Plaza,YA_17,Young Adult,AENF,Adult English Non-Fiction,47,94
+EP,Emerald Plaza,YA_17,Young Adult,AFNF,Adult French Fiction,1,95
+EP,Emerald Plaza,YA_17,Young Adult,JEF,Juvenile Fiction,5,96
+EP,Emerald Plaza,YA_17,Young Adult,JENF,Juvenile Non-Fiction,3,97
+EP,Emerald Plaza,YA_17,Young Adult,TEENEF,Teen English Fiction,19,98
+EP,Emerald Plaza,YA_17,Young Adult,TEENFF,Teen French Fiction,1,99
+FH,Fitzroy Harbour,ADULT,Adult,AECD,Adult English Books On CD,9,100
+AL,Alta Vista,ADULT,Adult,AECD,Adult English Books On CD,699,101
+AL,Alta Vista,ADULT,Adult,AEF,Adult English Fiction,14352,102
+AL,Alta Vista,ADULT,Adult,AEM,Adult English Mystery,7657,103
+AL,Alta Vista,ADULT,Adult,AENF,Adult English Non-Fiction,25062,104
+AL,Alta Vista,ADULT,Adult,AFCD,Adult French Books On CD,38,105
+AL,Alta Vista,ADULT,Adult,AFF,Adult French Fiction,1921,106
+AL,Alta Vista,ADULT,Adult,AFNF,Adult French Fiction,1545,107
+AL,Alta Vista,ADULT,Adult,JEF,Juvenile Fiction,4707,108
+AL,Alta Vista,ADULT,Adult,JENF,Juvenile Non-Fiction,7392,109
+AL,Alta Vista,ADULT,Adult,JFCD,Juvenile French Books On CD,7,110
+AL,Alta Vista,ADULT,Adult,KIOSK,Kiosk Items,1,111
+AL,Alta Vista,ADULT,Adult,TEENEBCD,Teen English Books On CD,17,112
+AL,Alta Vista,ADULT,Adult,TEENEF,Teen English Fiction,1105,113
+AL,Alta Vista,ADULT,Adult,TEENENF,Teen English Non-Fiction,189,114
+AL,Alta Vista,ADULT,Adult,TEENFF,Teen French Fiction,118,115
+AL,Alta Vista,ADULT,Adult,TEENFNF,Teen French Non-Fiction,2,116
+AL,Alta Vista,J,Juvenile,AECD,Adult English Books On CD,1,117
+AL,Alta Vista,J,Juvenile,AEF,Adult English Fiction,160,118
+AL,Alta Vista,J,Juvenile,AEM,Adult English Mystery,30,119
+AL,Alta Vista,J,Juvenile,AENF,Adult English Non-Fiction,670,120
+AL,Alta Vista,J,Juvenile,AFF,Adult French Fiction,77,121
+AL,Alta Vista,J,Juvenile,AFNF,Adult French Fiction,79,122
+AL,Alta Vista,J,Juvenile,JEF,Juvenile Fiction,1511,123
+AL,Alta Vista,J,Juvenile,JENF,Juvenile Non-Fiction,2179,124
+AL,Alta Vista,J,Juvenile,JFCD,Juvenile French Books On CD,20,125
+AL,Alta Vista,J,Juvenile,TEENEF,Teen English Fiction,338,126
+AL,Alta Vista,J,Juvenile,TEENENF,Teen English Non-Fiction,55,127
+AL,Alta Vista,J,Juvenile,TEENFF,Teen French Fiction,33,128
+AL,Alta Vista,J,Juvenile,TEENFNF,Teen French Non-Fiction,1,129
+AL,Alta Vista,YA_17,Young Adult,AEF,Adult English Fiction,43,130
+AL,Alta Vista,YA_17,Young Adult,AEM,Adult English Mystery,3,131
+AL,Alta Vista,YA_17,Young Adult,AENF,Adult English Non-Fiction,114,132
+AL,Alta Vista,YA_17,Young Adult,AFCD,Adult French Books On CD,1,133
+AL,Alta Vista,YA_17,Young Adult,AFF,Adult French Fiction,21,134
+AL,Alta Vista,YA_17,Young Adult,AFNF,Adult French Fiction,13,135
+AL,Alta Vista,YA_17,Young Adult,JEF,Juvenile Fiction,6,136
+AL,Alta Vista,YA_17,Young Adult,JENF,Juvenile Non-Fiction,6,137
+AL,Alta Vista,YA_17,Young Adult,TEENEF,Teen English Fiction,76,138
+AL,Alta Vista,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,8,139
+AL,Alta Vista,YA_17,Young Adult,TEENFF,Teen French Fiction,7,140
+BE,Beaverbrook,ADULT,Adult,AECD,Adult English Books On CD,1311,141
+BE,Beaverbrook,ADULT,Adult,AEF,Adult English Fiction,20847,142
+BE,Beaverbrook,ADULT,Adult,AEM,Adult English Mystery,9154,143
+BE,Beaverbrook,ADULT,Adult,AENF,Adult English Non-Fiction,39207,144
+BE,Beaverbrook,ADULT,Adult,AFCD,Adult French Books On CD,41,145
+BE,Beaverbrook,ADULT,Adult,AFF,Adult French Fiction,1212,146
+BE,Beaverbrook,ADULT,Adult,AFNF,Adult French Fiction,900,147
+BE,Beaverbrook,ADULT,Adult,JEF,Juvenile Fiction,14236,148
+BE,Beaverbrook,ADULT,Adult,JENF,Juvenile Non-Fiction,17859,149
+BE,Beaverbrook,ADULT,Adult,JFCD,Juvenile French Books On CD,11,150
+CU,Cumberland,J,Juvenile,AECD,Adult English Books On CD,16,151
+CU,Cumberland,J,Juvenile,AEF,Adult English Fiction,655,152
+CU,Cumberland,J,Juvenile,AEM,Adult English Mystery,93,153
+CU,Cumberland,J,Juvenile,AENF,Adult English Non-Fiction,1512,154
+CU,Cumberland,J,Juvenile,AFF,Adult French Fiction,121,155
+CU,Cumberland,J,Juvenile,AFNF,Adult French Fiction,240,156
+CU,Cumberland,J,Juvenile,JEF,Juvenile Fiction,3282,157
+CU,Cumberland,J,Juvenile,JENF,Juvenile Non-Fiction,3352,158
+CU,Cumberland,J,Juvenile,JFCD,Juvenile French Books On CD,5,159
+CU,Cumberland,J,Juvenile,TEENEBCD,Teen English Books On CD,2,160
+CU,Cumberland,J,Juvenile,TEENEF,Teen English Fiction,1243,161
+CU,Cumberland,J,Juvenile,TEENENF,Teen English Non-Fiction,82,162
+CU,Cumberland,J,Juvenile,TEENFF,Teen French Fiction,389,163
+CU,Cumberland,J,Juvenile,TEENFNF,Teen French Non-Fiction,10,164
+CU,Cumberland,YA_17,Young Adult,AEF,Adult English Fiction,51,165
+CU,Cumberland,YA_17,Young Adult,AEM,Adult English Mystery,5,166
+CU,Cumberland,YA_17,Young Adult,AENF,Adult English Non-Fiction,141,167
+CU,Cumberland,YA_17,Young Adult,AFF,Adult French Fiction,2,168
+CU,Cumberland,YA_17,Young Adult,AFNF,Adult French Fiction,12,169
+CU,Cumberland,YA_17,Young Adult,JEF,Juvenile Fiction,6,170
+CU,Cumberland,YA_17,Young Adult,JENF,Juvenile Non-Fiction,13,171
+CU,Cumberland,YA_17,Young Adult,TEENEF,Teen English Fiction,27,172
+CU,Cumberland,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,7,173
+CU,Cumberland,YA_17,Young Adult,TEENFF,Teen French Fiction,4,174
+EA,Elmvale Acres,ADULT,Adult,AECD,Adult English Books On CD,842,175
+EA,Elmvale Acres,ADULT,Adult,AEF,Adult English Fiction,8440,176
+EA,Elmvale Acres,ADULT,Adult,AEM,Adult English Mystery,4390,177
+EA,Elmvale Acres,ADULT,Adult,AENF,Adult English Non-Fiction,14032,178
+EA,Elmvale Acres,ADULT,Adult,AFCD,Adult French Books On CD,135,179
+EA,Elmvale Acres,ADULT,Adult,AFF,Adult French Fiction,1596,180
+EA,Elmvale Acres,ADULT,Adult,AFNF,Adult French Fiction,1096,181
+EA,Elmvale Acres,ADULT,Adult,JEF,Juvenile Fiction,2833,182
+EA,Elmvale Acres,ADULT,Adult,JENF,Juvenile Non-Fiction,3236,183
+EA,Elmvale Acres,ADULT,Adult,JFCD,Juvenile French Books On CD,48,184
+EA,Elmvale Acres,ADULT,Adult,TEENEBCD,Teen English Books On CD,9,185
+EA,Elmvale Acres,ADULT,Adult,TEENEF,Teen English Fiction,847,186
+EA,Elmvale Acres,ADULT,Adult,TEENENF,Teen English Non-Fiction,111,187
+EA,Elmvale Acres,ADULT,Adult,TEENFBCD,Teen French Books On CD,1,188
+EA,Elmvale Acres,ADULT,Adult,TEENFF,Teen French Fiction,106,189
+EA,Elmvale Acres,ADULT,Adult,TEENFNF,Teen French Non-Fiction,4,190
+EA,Elmvale Acres,J,Juvenile,AEF,Adult English Fiction,110,191
+EA,Elmvale Acres,J,Juvenile,AEM,Adult English Mystery,17,192
+EA,Elmvale Acres,J,Juvenile,AENF,Adult English Non-Fiction,280,193
+EA,Elmvale Acres,J,Juvenile,AFF,Adult French Fiction,11,194
+EA,Elmvale Acres,J,Juvenile,AFNF,Adult French Fiction,18,195
+EA,Elmvale Acres,J,Juvenile,JEF,Juvenile Fiction,959,196
+EA,Elmvale Acres,J,Juvenile,JENF,Juvenile Non-Fiction,832,197
+EA,Elmvale Acres,J,Juvenile,JFCD,Juvenile French Books On CD,1,198
+EA,Elmvale Acres,J,Juvenile,TEENEBCD,Teen English Books On CD,1,199
+EA,Elmvale Acres,J,Juvenile,TEENEF,Teen English Fiction,401,200
+BE,Beaverbrook,ADULT,Adult,KIOSK,Kiosk Items,2,201
+BE,Beaverbrook,ADULT,Adult,TEENEBCD,Teen English Books On CD,45,202
+BE,Beaverbrook,ADULT,Adult,TEENEF,Teen English Fiction,3094,203
+BE,Beaverbrook,ADULT,Adult,TEENENF,Teen English Non-Fiction,370,204
+BE,Beaverbrook,ADULT,Adult,TEENFBCD,Teen French Books On CD,1,205
+BE,Beaverbrook,ADULT,Adult,TEENFF,Teen French Fiction,165,206
+BE,Beaverbrook,ADULT,Adult,TEENFNF,Teen French Non-Fiction,8,207
+BE,Beaverbrook,J,Juvenile,AECD,Adult English Books On CD,26,208
+BE,Beaverbrook,J,Juvenile,AEF,Adult English Fiction,854,209
+BE,Beaverbrook,J,Juvenile,AEM,Adult English Mystery,172,210
+BE,Beaverbrook,J,Juvenile,AENF,Adult English Non-Fiction,2859,211
+BE,Beaverbrook,J,Juvenile,AFCD,Adult French Books On CD,1,212
+BE,Beaverbrook,J,Juvenile,AFF,Adult French Fiction,47,213
+BE,Beaverbrook,J,Juvenile,AFNF,Adult French Fiction,103,214
+BE,Beaverbrook,J,Juvenile,JEF,Juvenile Fiction,6750,215
+BE,Beaverbrook,J,Juvenile,JENF,Juvenile Non-Fiction,5761,216
+BE,Beaverbrook,J,Juvenile,JFCD,Juvenile French Books On CD,21,217
+BE,Beaverbrook,J,Juvenile,TEENEBCD,Teen English Books On CD,22,218
+BE,Beaverbrook,J,Juvenile,TEENEF,Teen English Fiction,2445,219
+BE,Beaverbrook,J,Juvenile,TEENENF,Teen English Non-Fiction,182,220
+BE,Beaverbrook,J,Juvenile,TEENFBCD,Teen French Books On CD,3,221
+BE,Beaverbrook,J,Juvenile,TEENFF,Teen French Fiction,140,222
+BE,Beaverbrook,J,Juvenile,TEENFNF,Teen French Non-Fiction,12,223
+BE,Beaverbrook,YA_17,Young Adult,AECD,Adult English Books On CD,1,224
+BE,Beaverbrook,YA_17,Young Adult,AEF,Adult English Fiction,153,225
+BE,Beaverbrook,YA_17,Young Adult,AEM,Adult English Mystery,12,226
+BE,Beaverbrook,YA_17,Young Adult,AENF,Adult English Non-Fiction,140,227
+BE,Beaverbrook,YA_17,Young Adult,AFF,Adult French Fiction,5,228
+BE,Beaverbrook,YA_17,Young Adult,AFNF,Adult French Fiction,2,229
+BE,Beaverbrook,YA_17,Young Adult,JEF,Juvenile Fiction,43,230
+BE,Beaverbrook,YA_17,Young Adult,JENF,Juvenile Non-Fiction,42,231
+BE,Beaverbrook,YA_17,Young Adult,TEENEBCD,Teen English Books On CD,2,232
+BE,Beaverbrook,YA_17,Young Adult,TEENEF,Teen English Fiction,96,233
+BE,Beaverbrook,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,1,234
+BE,Beaverbrook,YA_17,Young Adult,TEENFF,Teen French Fiction,4,235
+BH,Blackburn Hamlet,ADULT,Adult,AECD,Adult English Books On CD,262,236
+BH,Blackburn Hamlet,ADULT,Adult,AEF,Adult English Fiction,6210,237
+BH,Blackburn Hamlet,ADULT,Adult,AEM,Adult English Mystery,2604,238
+BH,Blackburn Hamlet,ADULT,Adult,AENF,Adult English Non-Fiction,8905,239
+BH,Blackburn Hamlet,ADULT,Adult,AFCD,Adult French Books On CD,19,240
+BH,Blackburn Hamlet,ADULT,Adult,AFF,Adult French Fiction,1213,241
+BH,Blackburn Hamlet,ADULT,Adult,AFNF,Adult French Fiction,1385,242
+BH,Blackburn Hamlet,ADULT,Adult,JEF,Juvenile Fiction,1488,243
+BH,Blackburn Hamlet,ADULT,Adult,JENF,Juvenile Non-Fiction,2247,244
+BH,Blackburn Hamlet,ADULT,Adult,JFCD,Juvenile French Books On CD,12,245
+BH,Blackburn Hamlet,ADULT,Adult,KIOSK,Kiosk Items,2,246
+BH,Blackburn Hamlet,ADULT,Adult,TEENEBCD,Teen English Books On CD,2,247
+BH,Blackburn Hamlet,ADULT,Adult,TEENEF,Teen English Fiction,387,248
+BH,Blackburn Hamlet,ADULT,Adult,TEENENF,Teen English Non-Fiction,26,249
+BH,Blackburn Hamlet,ADULT,Adult,TEENFF,Teen French Fiction,80,250
+CA,Carlingwood,YA_17,Young Adult,AFNF,Adult French Fiction,3,251
+CA,Carlingwood,YA_17,Young Adult,JEF,Juvenile Fiction,12,252
+CA,Carlingwood,YA_17,Young Adult,JENF,Juvenile Non-Fiction,16,253
+CA,Carlingwood,YA_17,Young Adult,TEENEBCD,Teen English Books On CD,4,254
+CA,Carlingwood,YA_17,Young Adult,TEENEF,Teen English Fiction,71,255
+CA,Carlingwood,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,8,256
+CA,Carlingwood,YA_17,Young Adult,TEENFF,Teen French Fiction,1,257
+CB,Constance Bay,ADULT,Adult,AECD,Adult English Books On CD,232,258
+CB,Constance Bay,ADULT,Adult,AEF,Adult English Fiction,1111,259
+CB,Constance Bay,ADULT,Adult,AEM,Adult English Mystery,317,260
+CB,Constance Bay,ADULT,Adult,AENF,Adult English Non-Fiction,1325,261
+CB,Constance Bay,ADULT,Adult,AFF,Adult French Fiction,4,262
+CB,Constance Bay,ADULT,Adult,AFNF,Adult French Fiction,8,263
+CB,Constance Bay,ADULT,Adult,JEF,Juvenile Fiction,263,264
+CB,Constance Bay,ADULT,Adult,JENF,Juvenile Non-Fiction,325,265
+CB,Constance Bay,ADULT,Adult,TEENEBCD,Teen English Books On CD,3,266
+CB,Constance Bay,ADULT,Adult,TEENEF,Teen English Fiction,108,267
+CB,Constance Bay,ADULT,Adult,TEENENF,Teen English Non-Fiction,4,268
+CB,Constance Bay,J,Juvenile,AEF,Adult English Fiction,39,269
+CB,Constance Bay,J,Juvenile,AENF,Adult English Non-Fiction,25,270
+CB,Constance Bay,J,Juvenile,AFNF,Adult French Fiction,1,271
+CB,Constance Bay,J,Juvenile,JEF,Juvenile Fiction,79,272
+CB,Constance Bay,J,Juvenile,JENF,Juvenile Non-Fiction,47,273
+CE,Centennial,J,Juvenile,JENF,Juvenile Non-Fiction,1106,274
+CB,Constance Bay,J,Juvenile,TEENEF,Teen English Fiction,72,275
+CB,Constance Bay,J,Juvenile,TEENENF,Teen English Non-Fiction,1,276
+CB,Constance Bay,J,Juvenile,TEENFF,Teen French Fiction,1,277
+CB,Constance Bay,YA_17,Young Adult,AENF,Adult English Non-Fiction,2,278
+CE,Centennial,ADULT,Adult,AECD,Adult English Books On CD,500,279
+CE,Centennial,ADULT,Adult,AEF,Adult English Fiction,9877,280
+CE,Centennial,ADULT,Adult,AEM,Adult English Mystery,4408,281
+CE,Centennial,ADULT,Adult,AENF,Adult English Non-Fiction,13565,282
+CE,Centennial,ADULT,Adult,AFCD,Adult French Books On CD,9,283
+CE,Centennial,ADULT,Adult,AFF,Adult French Fiction,552,284
+CE,Centennial,ADULT,Adult,AFNF,Adult French Fiction,624,285
+CE,Centennial,ADULT,Adult,JEF,Juvenile Fiction,2215,286
+CE,Centennial,ADULT,Adult,JENF,Juvenile Non-Fiction,3159,287
+CE,Centennial,ADULT,Adult,JFCD,Juvenile French Books On CD,1,288
+CE,Centennial,ADULT,Adult,TEENEBCD,Teen English Books On CD,11,289
+CE,Centennial,ADULT,Adult,TEENEF,Teen English Fiction,747,290
+CE,Centennial,ADULT,Adult,TEENENF,Teen English Non-Fiction,119,291
+CE,Centennial,ADULT,Adult,TEENFBCD,Teen French Books On CD,1,292
+CE,Centennial,ADULT,Adult,TEENFF,Teen French Fiction,9,293
+CE,Centennial,ADULT,Adult,TEENFNF,Teen French Non-Fiction,1,294
+CE,Centennial,J,Juvenile,AECD,Adult English Books On CD,6,295
+CE,Centennial,J,Juvenile,AEF,Adult English Fiction,108,296
+CE,Centennial,J,Juvenile,AEM,Adult English Mystery,17,297
+CE,Centennial,J,Juvenile,AENF,Adult English Non-Fiction,275,298
+CE,Centennial,J,Juvenile,AFF,Adult French Fiction,3,299
+CE,Centennial,J,Juvenile,AFNF,Adult French Fiction,3,300
+CE,Centennial,J,Juvenile,JEF,Juvenile Fiction,1427,301
+CE,Centennial,J,Juvenile,TEENEBCD,Teen English Books On CD,4,302
+CE,Centennial,J,Juvenile,TEENEF,Teen English Fiction,225,303
+CE,Centennial,J,Juvenile,TEENENF,Teen English Non-Fiction,33,304
+CE,Centennial,J,Juvenile,TEENFF,Teen French Fiction,1,305
+CE,Centennial,YA_17,Young Adult,AEF,Adult English Fiction,5,306
+CE,Centennial,YA_17,Young Adult,AENF,Adult English Non-Fiction,15,307
+CE,Centennial,YA_17,Young Adult,AFNF,Adult French Fiction,1,308
+CE,Centennial,YA_17,Young Adult,JEF,Juvenile Fiction,3,309
+CE,Centennial,YA_17,Young Adult,TEENEF,Teen English Fiction,11,310
+CP,Carp,ADULT,Adult,AECD,Adult English Books On CD,580,311
+CP,Carp,ADULT,Adult,AEF,Adult English Fiction,4977,312
+CP,Carp,ADULT,Adult,AEM,Adult English Mystery,2072,313
+CP,Carp,ADULT,Adult,AENF,Adult English Non-Fiction,7749,314
+CP,Carp,ADULT,Adult,AFF,Adult French Fiction,79,315
+CP,Carp,ADULT,Adult,AFNF,Adult French Fiction,44,316
+CP,Carp,ADULT,Adult,JEF,Juvenile Fiction,1311,317
+CP,Carp,ADULT,Adult,JENF,Juvenile Non-Fiction,2522,318
+CP,Carp,ADULT,Adult,TEENEBCD,Teen English Books On CD,20,319
+CP,Carp,ADULT,Adult,TEENEF,Teen English Fiction,325,320
+CP,Carp,ADULT,Adult,TEENENF,Teen English Non-Fiction,36,321
+CP,Carp,ADULT,Adult,TEENFF,Teen French Fiction,8,322
+CP,Carp,J,Juvenile,AECD,Adult English Books On CD,3,323
+CP,Carp,J,Juvenile,AEF,Adult English Fiction,285,324
+CP,Carp,J,Juvenile,AEM,Adult English Mystery,25,325
+CP,Carp,J,Juvenile,AENF,Adult English Non-Fiction,152,326
+CP,Carp,J,Juvenile,AFF,Adult French Fiction,2,327
+CP,Carp,J,Juvenile,JEF,Juvenile Fiction,784,328
+CP,Carp,J,Juvenile,JENF,Juvenile Non-Fiction,734,329
+CP,Carp,J,Juvenile,TEENEF,Teen English Fiction,225,330
+CP,Carp,J,Juvenile,TEENENF,Teen English Non-Fiction,6,331
+CP,Carp,J,Juvenile,TEENFF,Teen French Fiction,24,332
+CP,Carp,YA_17,Young Adult,AEF,Adult English Fiction,3,333
+CP,Carp,YA_17,Young Adult,AENF,Adult English Non-Fiction,1,334
+CP,Carp,YA_17,Young Adult,TEENEF,Teen English Fiction,3,335
+CU,Cumberland,ADULT,Adult,AECD,Adult English Books On CD,820,336
+CU,Cumberland,ADULT,Adult,AEF,Adult English Fiction,19732,337
+CU,Cumberland,ADULT,Adult,AEM,Adult English Mystery,9751,338
+CU,Cumberland,ADULT,Adult,AENF,Adult English Non-Fiction,34105,339
+CU,Cumberland,ADULT,Adult,AFCD,Adult French Books On CD,170,340
+CU,Cumberland,ADULT,Adult,AFF,Adult French Fiction,6262,341
+CU,Cumberland,ADULT,Adult,AFNF,Adult French Fiction,5463,342
+CU,Cumberland,ADULT,Adult,JEF,Juvenile Fiction,6577,343
+CU,Cumberland,ADULT,Adult,JENF,Juvenile Non-Fiction,10090,344
+CU,Cumberland,ADULT,Adult,JFCD,Juvenile French Books On CD,17,345
+CU,Cumberland,ADULT,Adult,TEENEBCD,Teen English Books On CD,41,346
+CU,Cumberland,ADULT,Adult,TEENEF,Teen English Fiction,2660,347
+CU,Cumberland,ADULT,Adult,TEENENF,Teen English Non-Fiction,313,348
+CU,Cumberland,ADULT,Adult,TEENFF,Teen French Fiction,841,349
+CU,Cumberland,ADULT,Adult,TEENFNF,Teen French Non-Fiction,32,350
+FH,Fitzroy Harbour,ADULT,Adult,AEF,Adult English Fiction,435,351
+FH,Fitzroy Harbour,ADULT,Adult,AEM,Adult English Mystery,246,352
+FH,Fitzroy Harbour,ADULT,Adult,AENF,Adult English Non-Fiction,527,353
+FH,Fitzroy Harbour,ADULT,Adult,AFF,Adult French Fiction,2,354
+FH,Fitzroy Harbour,ADULT,Adult,JEF,Juvenile Fiction,38,355
+FH,Fitzroy Harbour,ADULT,Adult,JENF,Juvenile Non-Fiction,102,356
+FH,Fitzroy Harbour,ADULT,Adult,TEENEF,Teen English Fiction,13,357
+FH,Fitzroy Harbour,ADULT,Adult,TEENENF,Teen English Non-Fiction,1,358
+FH,Fitzroy Harbour,J,Juvenile,AEF,Adult English Fiction,24,359
+FH,Fitzroy Harbour,J,Juvenile,AEM,Adult English Mystery,2,360
+FH,Fitzroy Harbour,J,Juvenile,AENF,Adult English Non-Fiction,20,361
+FH,Fitzroy Harbour,J,Juvenile,JEF,Juvenile Fiction,63,362
+FH,Fitzroy Harbour,J,Juvenile,JENF,Juvenile Non-Fiction,55,363
+FH,Fitzroy Harbour,J,Juvenile,TEENEF,Teen English Fiction,17,364
+FH,Fitzroy Harbour,J,Juvenile,TEENENF,Teen English Non-Fiction,1,365
+FH,Fitzroy Harbour,YA_17,Young Adult,AEF,Adult English Fiction,4,366
+FH,Fitzroy Harbour,YA_17,Young Adult,AENF,Adult English Non-Fiction,5,367
+FH,Fitzroy Harbour,YA_17,Young Adult,TEENEF,Teen English Fiction,19,368
+GB,Greenboro,ADULT,Adult,AECD,Adult English Books On CD,1009,369
+GB,Greenboro,ADULT,Adult,AEF,Adult English Fiction,14791,370
+GB,Greenboro,ADULT,Adult,AEM,Adult English Mystery,7012,371
+GB,Greenboro,ADULT,Adult,AENF,Adult English Non-Fiction,28585,372
+GB,Greenboro,ADULT,Adult,AFCD,Adult French Books On CD,34,373
+GB,Greenboro,ADULT,Adult,AFF,Adult French Fiction,1675,374
+GB,Greenboro,ADULT,Adult,AFNF,Adult French Fiction,1190,375
+GB,Greenboro,ADULT,Adult,JEF,Juvenile Fiction,5707,376
+GB,Greenboro,ADULT,Adult,JENF,Juvenile Non-Fiction,10688,377
+GB,Greenboro,ADULT,Adult,JFCD,Juvenile French Books On CD,13,378
+GB,Greenboro,ADULT,Adult,KIOSK,Kiosk Items,5,379
+GB,Greenboro,ADULT,Adult,TEENEBCD,Teen English Books On CD,22,380
+GB,Greenboro,ADULT,Adult,TEENEF,Teen English Fiction,1752,381
+GB,Greenboro,ADULT,Adult,TEENENF,Teen English Non-Fiction,193,382
+GB,Greenboro,ADULT,Adult,TEENFF,Teen French Fiction,169,383
+GB,Greenboro,ADULT,Adult,TEENFNF,Teen French Non-Fiction,7,384
+GB,Greenboro,J,Juvenile,AECD,Adult English Books On CD,7,385
+GB,Greenboro,J,Juvenile,AEF,Adult English Fiction,496,386
+GB,Greenboro,J,Juvenile,AEM,Adult English Mystery,93,387
+GB,Greenboro,J,Juvenile,AENF,Adult English Non-Fiction,1031,388
+GB,Greenboro,J,Juvenile,AFF,Adult French Fiction,52,389
+GB,Greenboro,J,Juvenile,AFNF,Adult French Fiction,81,390
+GB,Greenboro,J,Juvenile,JEF,Juvenile Fiction,3006,391
+GB,Greenboro,J,Juvenile,JENF,Juvenile Non-Fiction,3222,392
+GB,Greenboro,J,Juvenile,JFCD,Juvenile French Books On CD,1,393
+GB,Greenboro,J,Juvenile,TEENEBCD,Teen English Books On CD,3,394
+GB,Greenboro,J,Juvenile,TEENEF,Teen English Fiction,666,395
+GB,Greenboro,J,Juvenile,TEENENF,Teen English Non-Fiction,65,396
+GB,Greenboro,J,Juvenile,TEENFF,Teen French Fiction,113,397
+GB,Greenboro,J,Juvenile,TEENFNF,Teen French Non-Fiction,1,398
+GB,Greenboro,YA_17,Young Adult,AEF,Adult English Fiction,87,399
+GB,Greenboro,YA_17,Young Adult,AEM,Adult English Mystery,2,400
+MK,Manotick,ADULT,Adult,TEENENF,Teen English Non-Fiction,40,401
+MK,Manotick,ADULT,Adult,TEENFF,Teen French Fiction,35,402
+MK,Manotick,J,Juvenile,AECD,Adult English Books On CD,2,403
+MK,Manotick,J,Juvenile,AEF,Adult English Fiction,125,404
+MK,Manotick,J,Juvenile,AEM,Adult English Mystery,22,405
+MK,Manotick,J,Juvenile,AENF,Adult English Non-Fiction,347,406
+MK,Manotick,J,Juvenile,AFF,Adult French Fiction,11,407
+MK,Manotick,J,Juvenile,AFNF,Adult French Fiction,10,408
+MK,Manotick,J,Juvenile,JEF,Juvenile Fiction,1779,409
+MK,Manotick,J,Juvenile,JENF,Juvenile Non-Fiction,1332,410
+MK,Manotick,J,Juvenile,TEENEBCD,Teen English Books On CD,4,411
+MK,Manotick,J,Juvenile,TEENEF,Teen English Fiction,238,412
+MK,Manotick,J,Juvenile,TEENENF,Teen English Non-Fiction,10,413
+MK,Manotick,J,Juvenile,TEENFF,Teen French Fiction,5,414
+MK,Manotick,YA_17,Young Adult,AECD,Adult English Books On CD,5,415
+MK,Manotick,YA_17,Young Adult,AEF,Adult English Fiction,10,416
+MK,Manotick,YA_17,Young Adult,AEM,Adult English Mystery,3,417
+MK,Manotick,YA_17,Young Adult,AENF,Adult English Non-Fiction,16,418
+MK,Manotick,YA_17,Young Adult,AFF,Adult French Fiction,1,419
+MK,Manotick,YA_17,Young Adult,JEF,Juvenile Fiction,4,420
+MK,Manotick,YA_17,Young Adult,TEENEBCD,Teen English Books On CD,2,421
+MK,Manotick,YA_17,Young Adult,TEENEF,Teen English Fiction,43,422
+MU,Munster,ADULT,Adult,AECD,Adult English Books On CD,30,423
+MU,Munster,ADULT,Adult,AEF,Adult English Fiction,864,424
+MU,Munster,ADULT,Adult,AEM,Adult English Mystery,414,425
+MU,Munster,ADULT,Adult,AENF,Adult English Non-Fiction,752,426
+MU,Munster,ADULT,Adult,AFNF,Adult French Fiction,2,427
+MU,Munster,ADULT,Adult,JEF,Juvenile Fiction,156,428
+MU,Munster,ADULT,Adult,JENF,Juvenile Non-Fiction,297,429
+MU,Munster,ADULT,Adult,JFCD,Juvenile French Books On CD,2,430
+MU,Munster,ADULT,Adult,TEENEBCD,Teen English Books On CD,1,431
+MU,Munster,ADULT,Adult,TEENEF,Teen English Fiction,30,432
+MU,Munster,ADULT,Adult,TEENENF,Teen English Non-Fiction,6,433
+MU,Munster,J,Juvenile,AEF,Adult English Fiction,25,434
+MU,Munster,J,Juvenile,AENF,Adult English Non-Fiction,11,435
+MU,Munster,J,Juvenile,JEF,Juvenile Fiction,37,436
+MU,Munster,J,Juvenile,JENF,Juvenile Non-Fiction,27,437
+MU,Munster,J,Juvenile,TEENEF,Teen English Fiction,7,438
+NC,Nepean Centrepoint,ADULT,Adult,AECD,Adult English Books On CD,1170,439
+NC,Nepean Centrepoint,ADULT,Adult,AEF,Adult English Fiction,20060,440
+NC,Nepean Centrepoint,ADULT,Adult,AEM,Adult English Mystery,8466,441
+NC,Nepean Centrepoint,ADULT,Adult,AENF,Adult English Non-Fiction,36234,442
+NC,Nepean Centrepoint,ADULT,Adult,AFCD,Adult French Books On CD,43,443
+NC,Nepean Centrepoint,ADULT,Adult,AFF,Adult French Fiction,1106,444
+GB,Greenboro,YA_17,Young Adult,AENF,Adult English Non-Fiction,186,445
+HB,Homebound,ADULT,Adult,AENF,Adult English Non-Fiction,13,446
+NC,Nepean Centrepoint,ADULT,Adult,AFNF,Adult French Fiction,1094,447
+NC,Nepean Centrepoint,ADULT,Adult,JEF,Juvenile Fiction,8873,448
+NC,Nepean Centrepoint,ADULT,Adult,JENF,Juvenile Non-Fiction,13271,449
+NC,Nepean Centrepoint,ADULT,Adult,JFCD,Juvenile French Books On CD,18,450
+NC,Nepean Centrepoint,ADULT,Adult,KIOSK,Kiosk Items,3,451
+NC,Nepean Centrepoint,ADULT,Adult,TEENEBCD,Teen English Books On CD,30,452
+NG,North Gloucester,J,Juvenile,JFCD,Juvenile French Books On CD,4,453
+HB,Homebound,ADULT,Adult,AFF,Adult French Fiction,1,454
+NG,North Gloucester,J,Juvenile,TEENEBCD,Teen English Books On CD,2,455
+GB,Greenboro,YA_17,Young Adult,AFF,Adult French Fiction,4,456
+HB,Homebound,ADULT,Adult,AFNF,Adult French Fiction,6,457
+NG,North Gloucester,J,Juvenile,TEENEF,Teen English Fiction,658,458
+GB,Greenboro,YA_17,Young Adult,AFNF,Adult French Fiction,6,459
+HB,Homebound,ADULT,Adult,JENF,Juvenile Non-Fiction,3,460
+NG,North Gloucester,J,Juvenile,TEENENF,Teen English Non-Fiction,24,461
+GB,Greenboro,YA_17,Young Adult,JEF,Juvenile Fiction,49,462
+HB,Homebound,ADULT,Adult,TEENEF,Teen English Fiction,1,463
+NG,North Gloucester,J,Juvenile,TEENFF,Teen French Fiction,90,464
+GB,Greenboro,YA_17,Young Adult,JENF,Juvenile Non-Fiction,22,465
+HRK,Kiosk,ADULT,Adult,JENF,Juvenile Non-Fiction,1,466
+NG,North Gloucester,J,Juvenile,TEENFNF,Teen French Non-Fiction,2,467
+GB,Greenboro,YA_17,Young Adult,TEENEF,Teen English Fiction,104,468
+HRK,Kiosk,ADULT,Adult,KIOSK,Kiosk Items,2013,469
+NG,North Gloucester,YA_17,Young Adult,AECD,Adult English Books On CD,1,470
+GB,Greenboro,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,10,471
+NG,North Gloucester,YA_17,Young Adult,AEF,Adult English Fiction,23,472
+HRK,Kiosk,J,Juvenile,KIOSK,Kiosk Items,319,473
+GO,North Gower,ADULT,Adult,AECD,Adult English Books On CD,127,474
+NG,North Gloucester,YA_17,Young Adult,AEM,Adult English Mystery,4,475
+HRK,Kiosk,YA_17,Young Adult,KIOSK,Kiosk Items,2,476
+GO,North Gower,ADULT,Adult,AEF,Adult English Fiction,2629,477
+NG,North Gloucester,YA_17,Young Adult,AENF,Adult English Non-Fiction,71,478
+HRL,Kiosk Hold Locker,ADULT,Adult,AECD,Adult English Books On CD,14,479
+GO,North Gower,ADULT,Adult,AEM,Adult English Mystery,1240,480
+NG,North Gloucester,YA_17,Young Adult,AFF,Adult French Fiction,10,481
+HRL,Kiosk Hold Locker,ADULT,Adult,AEF,Adult English Fiction,419,482
+GO,North Gower,ADULT,Adult,AENF,Adult English Non-Fiction,3834,483
+NG,North Gloucester,YA_17,Young Adult,AFNF,Adult French Fiction,51,484
+HRL,Kiosk Hold Locker,ADULT,Adult,AEM,Adult English Mystery,77,485
+GO,North Gower,ADULT,Adult,AFCD,Adult French Books On CD,2,486
+NG,North Gloucester,YA_17,Young Adult,JEF,Juvenile Fiction,21,487
+HRL,Kiosk Hold Locker,ADULT,Adult,AENF,Adult English Non-Fiction,1023,488
+GO,North Gower,ADULT,Adult,AFF,Adult French Fiction,141,489
+NG,North Gloucester,YA_17,Young Adult,JENF,Juvenile Non-Fiction,3,490
+HRL,Kiosk Hold Locker,ADULT,Adult,AFF,Adult French Fiction,48,491
+GO,North Gower,ADULT,Adult,AFNF,Adult French Fiction,262,492
+NG,North Gloucester,YA_17,Young Adult,TEENEBCD,Teen English Books On CD,1,493
+HRL,Kiosk Hold Locker,ADULT,Adult,AFNF,Adult French Fiction,67,494
+GO,North Gower,ADULT,Adult,JEF,Juvenile Fiction,678,495
+NG,North Gloucester,YA_17,Young Adult,TEENEF,Teen English Fiction,62,496
+HRL,Kiosk Hold Locker,ADULT,Adult,JEF,Juvenile Fiction,85,497
+GO,North Gower,ADULT,Adult,JENF,Juvenile Non-Fiction,1299,498
+NG,North Gloucester,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,1,499
+HRL,Kiosk Hold Locker,ADULT,Adult,JENF,Juvenile Non-Fiction,134,500
+GO,North Gower,ADULT,Adult,TEENEBCD,Teen English Books On CD,4,501
+GO,North Gower,ADULT,Adult,TEENEF,Teen English Fiction,189,502
+GO,North Gower,ADULT,Adult,TEENENF,Teen English Non-Fiction,19,503
+GO,North Gower,ADULT,Adult,TEENFF,Teen French Fiction,10,504
+GO,North Gower,ADULT,Adult,TEENFNF,Teen French Non-Fiction,1,505
+GO,North Gower,J,Juvenile,AEF,Adult English Fiction,62,506
+GO,North Gower,J,Juvenile,AEM,Adult English Mystery,8,507
+GO,North Gower,J,Juvenile,AENF,Adult English Non-Fiction,39,508
+GO,North Gower,J,Juvenile,AFNF,Adult French Fiction,1,509
+GO,North Gower,J,Juvenile,JEF,Juvenile Fiction,249,510
+GO,North Gower,J,Juvenile,JENF,Juvenile Non-Fiction,154,511
+GO,North Gower,J,Juvenile,TEENEBCD,Teen English Books On CD,1,512
+GO,North Gower,J,Juvenile,TEENEF,Teen English Fiction,76,513
+GO,North Gower,J,Juvenile,TEENENF,Teen English Non-Fiction,1,514
+GO,North Gower,YA_17,Young Adult,AENF,Adult English Non-Fiction,6,515
+GO,North Gower,YA_17,Young Adult,JENF,Juvenile Non-Fiction,1,516
+GR,Greely,ADULT,Adult,AECD,Adult English Books On CD,116,517
+GR,Greely,ADULT,Adult,AEF,Adult English Fiction,2861,518
+GR,Greely,ADULT,Adult,AEM,Adult English Mystery,1108,519
+GR,Greely,ADULT,Adult,AENF,Adult English Non-Fiction,4398,520
+GR,Greely,ADULT,Adult,AFCD,Adult French Books On CD,13,521
+GR,Greely,ADULT,Adult,AFF,Adult French Fiction,210,522
+GR,Greely,ADULT,Adult,AFNF,Adult French Fiction,109,523
+GR,Greely,ADULT,Adult,JEF,Juvenile Fiction,1712,524
+GR,Greely,ADULT,Adult,JENF,Juvenile Non-Fiction,1997,525
+GR,Greely,ADULT,Adult,JFCD,Juvenile French Books On CD,2,526
+GR,Greely,ADULT,Adult,KIOSK,Kiosk Items,1,527
+GR,Greely,ADULT,Adult,TEENEBCD,Teen English Books On CD,3,528
+GR,Greely,ADULT,Adult,TEENEF,Teen English Fiction,259,529
+GR,Greely,ADULT,Adult,TEENENF,Teen English Non-Fiction,26,530
+GR,Greely,ADULT,Adult,TEENFF,Teen French Fiction,11,531
+GR,Greely,J,Juvenile,AECD,Adult English Books On CD,1,532
+GR,Greely,J,Juvenile,AEF,Adult English Fiction,51,533
+GR,Greely,J,Juvenile,AEM,Adult English Mystery,9,534
+MA,Main,J,Juvenile,JENF,Juvenile Non-Fiction,1006,535
+HRL,Kiosk Hold Locker,ADULT,Adult,TEENEF,Teen English Fiction,15,536
+MA,Main,J,Juvenile,TEENEF,Teen English Fiction,347,537
+HRL,Kiosk Hold Locker,ADULT,Adult,TEENENF,Teen English Non-Fiction,6,538
+HRL,Kiosk Hold Locker,ADULT,Adult,TEENFF,Teen French Fiction,2,539
+MA,Main,J,Juvenile,TEENENF,Teen English Non-Fiction,35,540
+HRL,Kiosk Hold Locker,J,Juvenile,AEF,Adult English Fiction,1,541
+MA,Main,J,Juvenile,TEENFBCD,Teen French Books On CD,1,542
+HRL,Kiosk Hold Locker,J,Juvenile,AENF,Adult English Non-Fiction,21,543
+MA,Main,J,Juvenile,TEENFF,Teen French Fiction,82,544
+HRL,Kiosk Hold Locker,J,Juvenile,JEF,Juvenile Fiction,11,545
+MA,Main,YA_17,Young Adult,AECD,Adult English Books On CD,1,546
+HRL,Kiosk Hold Locker,J,Juvenile,JENF,Juvenile Non-Fiction,16,547
+NG,North Gloucester,YA_17,Young Adult,TEENFF,Teen French Fiction,2,548
+MA,Main,YA_17,Young Adult,AEF,Adult English Fiction,14,549
+HRL,Kiosk Hold Locker,J,Juvenile,TEENEF,Teen English Fiction,11,550
+NG,North Gloucester,YA_17,Young Adult,TEENFNF,Teen French Non-Fiction,1,551
+MA,Main,YA_17,Young Adult,AEM,Adult English Mystery,1,552
+HRL,Kiosk Hold Locker,YA_17,Young Adult,AEF,Adult English Fiction,1,553
+OR,Orléans,ADULT,Adult,AECD,Adult English Books On CD,444,554
+MA,Main,ADULT,Adult,AECD,Adult English Books On CD,1190,555
+MA,Main,YA_17,Young Adult,AENF,Adult English Non-Fiction,88,556
+OR,Orléans,ADULT,Adult,AEF,Adult English Fiction,14582,557
+MA,Main,YA_17,Young Adult,AFF,Adult French Fiction,5,558
+OR,Orléans,ADULT,Adult,AEM,Adult English Mystery,5201,559
+MA,Main,ADULT,Adult,AEF,Adult English Fiction,21376,560
+MA,Main,ADULT,Adult,AEM,Adult English Mystery,6925,561
+MA,Main,YA_17,Young Adult,AFNF,Adult French Fiction,3,562
+MA,Main,ADULT,Adult,AENF,Adult English Non-Fiction,48778,563
+MA,Main,ADULT,Adult,AFCD,Adult French Books On CD,70,564
+MA,Main,ADULT,Adult,AFF,Adult French Fiction,3888,565
+MA,Main,ADULT,Adult,AFNF,Adult French Fiction,5164,566
+MA,Main,ADULT,Adult,JEF,Juvenile Fiction,2957,567
+MA,Main,ADULT,Adult,JENF,Juvenile Non-Fiction,4728,568
+MA,Main,ADULT,Adult,JFCD,Juvenile French Books On CD,9,569
+MA,Main,ADULT,Adult,KIOSK,Kiosk Items,1,570
+MA,Main,ADULT,Adult,TEENEBCD,Teen English Books On CD,27,571
+MA,Main,ADULT,Adult,TEENEF,Teen English Fiction,2322,572
+MA,Main,ADULT,Adult,TEENENF,Teen English Non-Fiction,342,573
+MA,Main,ADULT,Adult,TEENFF,Teen French Fiction,223,574
+MA,Main,ADULT,Adult,TEENFNF,Teen French Non-Fiction,6,575
+MA,Main,J,Juvenile,AECD,Adult English Books On CD,2,576
+MA,Main,J,Juvenile,AEF,Adult English Fiction,185,577
+MA,Main,J,Juvenile,AEM,Adult English Mystery,25,578
+MA,Main,J,Juvenile,AENF,Adult English Non-Fiction,640,579
+MA,Main,J,Juvenile,AFCD,Adult French Books On CD,2,580
+MA,Main,J,Juvenile,AFF,Adult French Fiction,31,581
+MA,Main,J,Juvenile,AFNF,Adult French Fiction,125,582
+MA,Main,J,Juvenile,JEF,Juvenile Fiction,1021,583
+MA,Main,YA_17,Young Adult,JEF,Juvenile Fiction,4,584
+OR,Orléans,ADULT,Adult,AENF,Adult English Non-Fiction,21436,585
+OR,Orléans,ADULT,Adult,AFCD,Adult French Books On CD,101,586
+MA,Main,YA_17,Young Adult,JENF,Juvenile Non-Fiction,5,587
+OR,Orléans,ADULT,Adult,AFF,Adult French Fiction,5307,588
+MA,Main,YA_17,Young Adult,TEENEF,Teen English Fiction,26,589
+OR,Orléans,ADULT,Adult,AFNF,Adult French Fiction,3673,590
+MA,Main,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,1,591
+OR,Orléans,ADULT,Adult,JEF,Juvenile Fiction,4015,592
+MA,Main,YA_17,Young Adult,TEENFF,Teen French Fiction,2,593
+OR,Orléans,ADULT,Adult,JENF,Juvenile Non-Fiction,5447,594
+ME,Metcalfe,ADULT,Adult,AECD,Adult English Books On CD,64,595
+OR,Orléans,ADULT,Adult,JFCD,Juvenile French Books On CD,12,596
+ME,Metcalfe,ADULT,Adult,AEF,Adult English Fiction,1292,597
+OR,Orléans,ADULT,Adult,TEENEBCD,Teen English Books On CD,16,598
+ME,Metcalfe,ADULT,Adult,AEM,Adult English Mystery,577,599
+OR,Orléans,ADULT,Adult,TEENEF,Teen English Fiction,1059,600
+ME,Metcalfe,ADULT,Adult,AENF,Adult English Non-Fiction,2436,601
+OR,Orléans,ADULT,Adult,TEENENF,Teen English Non-Fiction,166,602
+ME,Metcalfe,ADULT,Adult,AFCD,Adult French Books On CD,3,603
+OR,Orléans,ADULT,Adult,TEENFF,Teen French Fiction,459,604
+ME,Metcalfe,ADULT,Adult,AFF,Adult French Fiction,60,605
+OR,Orléans,ADULT,Adult,TEENFNF,Teen French Non-Fiction,25,606
+ME,Metcalfe,ADULT,Adult,AFNF,Adult French Fiction,57,607
+OR,Orléans,J,Juvenile,AECD,Adult English Books On CD,18,608
+ME,Metcalfe,ADULT,Adult,JEF,Juvenile Fiction,902,609
+OR,Orléans,J,Juvenile,AEF,Adult English Fiction,289,610
+ME,Metcalfe,ADULT,Adult,JENF,Juvenile Non-Fiction,958,611
+OR,Orléans,J,Juvenile,AEM,Adult English Mystery,38,612
+ME,Metcalfe,ADULT,Adult,KIOSK,Kiosk Items,1,613
+OR,Orléans,J,Juvenile,AENF,Adult English Non-Fiction,614,614
+ME,Metcalfe,ADULT,Adult,TEENEBCD,Teen English Books On CD,1,615
+OR,Orléans,J,Juvenile,AFF,Adult French Fiction,148,616
+ME,Metcalfe,ADULT,Adult,TEENEF,Teen English Fiction,115,617
+OR,Orléans,J,Juvenile,AFNF,Adult French Fiction,175,618
+ME,Metcalfe,ADULT,Adult,TEENENF,Teen English Non-Fiction,12,619
+OR,Orléans,J,Juvenile,JEF,Juvenile Fiction,2163,620
+ME,Metcalfe,ADULT,Adult,TEENFF,Teen French Fiction,1,621
+OR,Orléans,J,Juvenile,JENF,Juvenile Non-Fiction,1681,622
+ME,Metcalfe,J,Juvenile,AEF,Adult English Fiction,30,623
+OR,Orléans,J,Juvenile,JFCD,Juvenile French Books On CD,4,624
+ME,Metcalfe,J,Juvenile,AEM,Adult English Mystery,6,625
+OR,Orléans,J,Juvenile,TEENEBCD,Teen English Books On CD,2,626
+ME,Metcalfe,J,Juvenile,AENF,Adult English Non-Fiction,39,627
+OR,Orléans,J,Juvenile,TEENEF,Teen English Fiction,647,628
+ME,Metcalfe,J,Juvenile,JEF,Juvenile Fiction,137,629
+OR,Orléans,J,Juvenile,TEENENF,Teen English Non-Fiction,58,630
+OR,Orléans,J,Juvenile,TEENFF,Teen French Fiction,352,631
+OR,Orléans,J,Juvenile,TEENFNF,Teen French Non-Fiction,21,632
+OR,Orléans,YA_17,Young Adult,AEF,Adult English Fiction,31,633
+OR,Orléans,YA_17,Young Adult,AEM,Adult English Mystery,2,634
+ME,Metcalfe,J,Juvenile,JENF,Juvenile Non-Fiction,170,635
+ME,Metcalfe,J,Juvenile,TEENEBCD,Teen English Books On CD,1,636
+ME,Metcalfe,J,Juvenile,TEENEF,Teen English Fiction,63,637
+ME,Metcalfe,YA_17,Young Adult,AEF,Adult English Fiction,1,638
+MK,Manotick,ADULT,Adult,AECD,Adult English Books On CD,448,639
+MK,Manotick,ADULT,Adult,AEF,Adult English Fiction,9283,640
+MK,Manotick,ADULT,Adult,AEM,Adult English Mystery,2687,641
+MK,Manotick,ADULT,Adult,AENF,Adult English Non-Fiction,10735,642
+MK,Manotick,ADULT,Adult,AFCD,Adult French Books On CD,2,643
+MK,Manotick,ADULT,Adult,AFF,Adult French Fiction,493,644
+MK,Manotick,ADULT,Adult,AFNF,Adult French Fiction,273,645
+MK,Manotick,ADULT,Adult,JEF,Juvenile Fiction,4063,646
+MK,Manotick,ADULT,Adult,JENF,Juvenile Non-Fiction,5210,647
+MK,Manotick,ADULT,Adult,JFCD,Juvenile French Books On CD,12,648
+MK,Manotick,ADULT,Adult,TEENEBCD,Teen English Books On CD,3,649
+MK,Manotick,ADULT,Adult,TEENEF,Teen English Fiction,1020,650
+GR,Greely,J,Juvenile,AENF,Adult English Non-Fiction,125,651
+GR,Greely,J,Juvenile,AFF,Adult French Fiction,2,652
+GR,Greely,J,Juvenile,AFNF,Adult French Fiction,2,653
+GR,Greely,J,Juvenile,JEF,Juvenile Fiction,480,654
+GR,Greely,J,Juvenile,JENF,Juvenile Non-Fiction,436,655
+GR,Greely,J,Juvenile,TEENEF,Teen English Fiction,52,656
+GR,Greely,J,Juvenile,TEENENF,Teen English Non-Fiction,4,657
+GR,Greely,J,Juvenile,TEENFF,Teen French Fiction,11,658
+GR,Greely,YA_17,Young Adult,AENF,Adult English Non-Fiction,2,659
+HA,Hazeldean,ADULT,Adult,AECD,Adult English Books On CD,1098,660
+HA,Hazeldean,ADULT,Adult,AEF,Adult English Fiction,14804,661
+HA,Hazeldean,ADULT,Adult,AEM,Adult English Mystery,5666,662
+HA,Hazeldean,ADULT,Adult,AENF,Adult English Non-Fiction,26738,663
+HA,Hazeldean,ADULT,Adult,AFCD,Adult French Books On CD,8,664
+HA,Hazeldean,ADULT,Adult,AFF,Adult French Fiction,670,665
+HA,Hazeldean,ADULT,Adult,AFNF,Adult French Fiction,641,666
+HA,Hazeldean,ADULT,Adult,JEF,Juvenile Fiction,6788,667
+HA,Hazeldean,ADULT,Adult,JENF,Juvenile Non-Fiction,10608,668
+HA,Hazeldean,ADULT,Adult,JFCD,Juvenile French Books On CD,6,669
+HA,Hazeldean,ADULT,Adult,TEENEBCD,Teen English Books On CD,30,670
+HA,Hazeldean,ADULT,Adult,TEENEF,Teen English Fiction,1519,671
+HA,Hazeldean,ADULT,Adult,TEENENF,Teen English Non-Fiction,221,672
+HA,Hazeldean,ADULT,Adult,TEENFF,Teen French Fiction,68,673
+HA,Hazeldean,ADULT,Adult,TEENFNF,Teen French Non-Fiction,4,674
+HA,Hazeldean,J,Juvenile,AECD,Adult English Books On CD,21,675
+HA,Hazeldean,J,Juvenile,AEF,Adult English Fiction,390,676
+HA,Hazeldean,J,Juvenile,AEM,Adult English Mystery,76,677
+HA,Hazeldean,J,Juvenile,AENF,Adult English Non-Fiction,1430,678
+HA,Hazeldean,J,Juvenile,AFCD,Adult French Books On CD,1,679
+HA,Hazeldean,J,Juvenile,AFF,Adult French Fiction,37,680
+HA,Hazeldean,J,Juvenile,AFNF,Adult French Fiction,42,681
+HA,Hazeldean,J,Juvenile,JEF,Juvenile Fiction,2809,682
+HA,Hazeldean,J,Juvenile,JENF,Juvenile Non-Fiction,3356,683
+HA,Hazeldean,J,Juvenile,JFCD,Juvenile French Books On CD,2,684
+HA,Hazeldean,J,Juvenile,TEENEBCD,Teen English Books On CD,4,685
+HA,Hazeldean,J,Juvenile,TEENEF,Teen English Fiction,847,686
+HA,Hazeldean,J,Juvenile,TEENENF,Teen English Non-Fiction,116,687
+HA,Hazeldean,J,Juvenile,TEENFF,Teen French Fiction,38,688
+HA,Hazeldean,YA_17,Young Adult,AEF,Adult English Fiction,46,689
+HA,Hazeldean,YA_17,Young Adult,AEM,Adult English Mystery,7,690
+HA,Hazeldean,YA_17,Young Adult,AENF,Adult English Non-Fiction,31,691
+HA,Hazeldean,YA_17,Young Adult,AFF,Adult French Fiction,5,692
+OR,Orléans,YA_17,Young Adult,AENF,Adult English Non-Fiction,35,693
+HA,Hazeldean,YA_17,Young Adult,AFNF,Adult French Fiction,1,694
+HA,Hazeldean,YA_17,Young Adult,JEF,Juvenile Fiction,3,695
+HA,Hazeldean,YA_17,Young Adult,JENF,Juvenile Non-Fiction,2,696
+HA,Hazeldean,YA_17,Young Adult,TEENEF,Teen English Fiction,19,697
+HA,Hazeldean,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,1,698
+OR,Orléans,YA_17,Young Adult,AFCD,Adult French Books On CD,1,699
+OR,Orléans,YA_17,Young Adult,AFF,Adult French Fiction,14,700
+HB,Homebound,ADULT,Adult,AECD,Adult English Books On CD,2,701
+HB,Homebound,ADULT,Adult,AEF,Adult English Fiction,23,702
+HB,Homebound,ADULT,Adult,AEM,Adult English Mystery,5,703
+OR,Orléans,YA_17,Young Adult,AFNF,Adult French Fiction,12,704
+OR,Orléans,YA_17,Young Adult,JEF,Juvenile Fiction,22,705
+OR,Orléans,YA_17,Young Adult,JENF,Juvenile Non-Fiction,2,706
+OR,Orléans,YA_17,Young Adult,TEENEF,Teen English Fiction,46,707
+OR,Orléans,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,4,708
+OR,Orléans,YA_17,Young Adult,TEENFF,Teen French Fiction,9,709
+OS,Osgoode,ADULT,Adult,AECD,Adult English Books On CD,94,710
+OS,Osgoode,ADULT,Adult,AEF,Adult English Fiction,2308,711
+OS,Osgoode,ADULT,Adult,AEM,Adult English Mystery,881,712
+OS,Osgoode,ADULT,Adult,AENF,Adult English Non-Fiction,3336,713
+OS,Osgoode,ADULT,Adult,AFF,Adult French Fiction,6,714
+OS,Osgoode,ADULT,Adult,AFNF,Adult French Fiction,46,715
+OS,Osgoode,ADULT,Adult,JEF,Juvenile Fiction,569,716
+OS,Osgoode,ADULT,Adult,JENF,Juvenile Non-Fiction,780,717
+OS,Osgoode,ADULT,Adult,TEENEBCD,Teen English Books On CD,2,718
+OS,Osgoode,ADULT,Adult,TEENEF,Teen English Fiction,189,719
+OS,Osgoode,ADULT,Adult,TEENENF,Teen English Non-Fiction,16,720
+OS,Osgoode,ADULT,Adult,TEENFF,Teen French Fiction,1,721
+OS,Osgoode,J,Juvenile,AEF,Adult English Fiction,35,722
+OS,Osgoode,J,Juvenile,AEM,Adult English Mystery,4,723
+OS,Osgoode,J,Juvenile,AENF,Adult English Non-Fiction,62,724
+OS,Osgoode,J,Juvenile,AFNF,Adult French Fiction,5,725
+OS,Osgoode,J,Juvenile,JEF,Juvenile Fiction,251,726
+OS,Osgoode,J,Juvenile,JENF,Juvenile Non-Fiction,226,727
+OS,Osgoode,J,Juvenile,TEENEF,Teen English Fiction,36,728
+OS,Osgoode,J,Juvenile,TEENFF,Teen French Fiction,1,729
+OS,Osgoode,YA_17,Young Adult,AENF,Adult English Non-Fiction,1,730
+OS,Osgoode,YA_17,Young Adult,AFNF,Adult French Fiction,1,731
+RD,Ruth E. Dickinson,ADULT,Adult,AECD,Adult English Books On CD,1154,732
+RD,Ruth E. Dickinson,ADULT,Adult,AEF,Adult English Fiction,22160,733
+RD,Ruth E. Dickinson,ADULT,Adult,AEM,Adult English Mystery,7449,734
+RD,Ruth E. Dickinson,ADULT,Adult,AENF,Adult English Non-Fiction,36116,735
+RD,Ruth E. Dickinson,ADULT,Adult,AFCD,Adult French Books On CD,23,736
+RD,Ruth E. Dickinson,ADULT,Adult,AFF,Adult French Fiction,851,737
+RD,Ruth E. Dickinson,ADULT,Adult,AFNF,Adult French Fiction,1054,738
+RD,Ruth E. Dickinson,ADULT,Adult,JEF,Juvenile Fiction,14676,739
+RD,Ruth E. Dickinson,ADULT,Adult,JENF,Juvenile Non-Fiction,18884,740
+RD,Ruth E. Dickinson,ADULT,Adult,JFCD,Juvenile French Books On CD,33,741
+RD,Ruth E. Dickinson,ADULT,Adult,KIOSK,Kiosk Items,4,742
+RD,Ruth E. Dickinson,ADULT,Adult,TEENEBCD,Teen English Books On CD,28,743
+RD,Ruth E. Dickinson,ADULT,Adult,TEENEF,Teen English Fiction,2852,744
+RD,Ruth E. Dickinson,ADULT,Adult,TEENENF,Teen English Non-Fiction,387,745
+RD,Ruth E. Dickinson,ADULT,Adult,TEENFF,Teen French Fiction,271,746
+RD,Ruth E. Dickinson,ADULT,Adult,TEENFNF,Teen French Non-Fiction,6,747
+RD,Ruth E. Dickinson,J,Juvenile,AECD,Adult English Books On CD,10,748
+RD,Ruth E. Dickinson,J,Juvenile,AEF,Adult English Fiction,858,749
+RD,Ruth E. Dickinson,J,Juvenile,AEM,Adult English Mystery,177,750
+NC,Nepean Centrepoint,ADULT,Adult,TEENEF,Teen English Fiction,2407,751
+NC,Nepean Centrepoint,ADULT,Adult,TEENENF,Teen English Non-Fiction,208,752
+NC,Nepean Centrepoint,ADULT,Adult,TEENFF,Teen French Fiction,179,753
+NC,Nepean Centrepoint,ADULT,Adult,TEENFNF,Teen French Non-Fiction,4,754
+NC,Nepean Centrepoint,J,Juvenile,AECD,Adult English Books On CD,11,755
+NC,Nepean Centrepoint,J,Juvenile,AEF,Adult English Fiction,366,756
+NC,Nepean Centrepoint,J,Juvenile,AEM,Adult English Mystery,77,757
+NC,Nepean Centrepoint,J,Juvenile,AENF,Adult English Non-Fiction,1440,758
+NC,Nepean Centrepoint,J,Juvenile,AFF,Adult French Fiction,31,759
+NC,Nepean Centrepoint,J,Juvenile,AFNF,Adult French Fiction,63,760
+NC,Nepean Centrepoint,J,Juvenile,JEF,Juvenile Fiction,3867,761
+NC,Nepean Centrepoint,J,Juvenile,JENF,Juvenile Non-Fiction,3830,762
+NC,Nepean Centrepoint,J,Juvenile,TEENEBCD,Teen English Books On CD,6,763
+NC,Nepean Centrepoint,J,Juvenile,TEENEF,Teen English Fiction,832,764
+NC,Nepean Centrepoint,J,Juvenile,TEENENF,Teen English Non-Fiction,93,765
+NC,Nepean Centrepoint,J,Juvenile,TEENFF,Teen French Fiction,145,766
+NC,Nepean Centrepoint,YA_17,Young Adult,AECD,Adult English Books On CD,4,767
+NC,Nepean Centrepoint,YA_17,Young Adult,AEF,Adult English Fiction,89,768
+NC,Nepean Centrepoint,YA_17,Young Adult,AEM,Adult English Mystery,6,769
+NC,Nepean Centrepoint,YA_17,Young Adult,AENF,Adult English Non-Fiction,76,770
+NC,Nepean Centrepoint,YA_17,Young Adult,AFF,Adult French Fiction,3,771
+NC,Nepean Centrepoint,YA_17,Young Adult,AFNF,Adult French Fiction,2,772
+NC,Nepean Centrepoint,YA_17,Young Adult,JEF,Juvenile Fiction,29,773
+NC,Nepean Centrepoint,YA_17,Young Adult,JENF,Juvenile Non-Fiction,9,774
+NC,Nepean Centrepoint,YA_17,Young Adult,TEENEF,Teen English Fiction,70,775
+NC,Nepean Centrepoint,YA_17,Young Adult,TEENFF,Teen French Fiction,3,776
+NG,North Gloucester,ADULT,Adult,AECD,Adult English Books On CD,578,777
+NG,North Gloucester,ADULT,Adult,AEF,Adult English Fiction,9182,778
+NG,North Gloucester,ADULT,Adult,AEM,Adult English Mystery,3549,779
+NG,North Gloucester,ADULT,Adult,AENF,Adult English Non-Fiction,17203,780
+NG,North Gloucester,ADULT,Adult,AFCD,Adult French Books On CD,54,781
+NG,North Gloucester,ADULT,Adult,AFF,Adult French Fiction,2476,782
+NG,North Gloucester,ADULT,Adult,AFNF,Adult French Fiction,2331,783
+NG,North Gloucester,ADULT,Adult,JEF,Juvenile Fiction,3917,784
+NG,North Gloucester,ADULT,Adult,JENF,Juvenile Non-Fiction,5400,785
+NG,North Gloucester,ADULT,Adult,JFCD,Juvenile French Books On CD,20,786
+NG,North Gloucester,ADULT,Adult,TEENEBCD,Teen English Books On CD,34,787
+NG,North Gloucester,ADULT,Adult,TEENEF,Teen English Fiction,1424,788
+NG,North Gloucester,ADULT,Adult,TEENENF,Teen English Non-Fiction,137,789
+NG,North Gloucester,ADULT,Adult,TEENFF,Teen French Fiction,233,790
+NG,North Gloucester,ADULT,Adult,TEENFNF,Teen French Non-Fiction,6,791
+NG,North Gloucester,J,Juvenile,AECD,Adult English Books On CD,6,792
+NG,North Gloucester,J,Juvenile,AEF,Adult English Fiction,253,793
+NG,North Gloucester,J,Juvenile,AEM,Adult English Mystery,44,794
+NG,North Gloucester,J,Juvenile,AENF,Adult English Non-Fiction,748,795
+NG,North Gloucester,J,Juvenile,AFCD,Adult French Books On CD,2,796
+NG,North Gloucester,J,Juvenile,AFF,Adult French Fiction,33,797
+NG,North Gloucester,J,Juvenile,AFNF,Adult French Fiction,65,798
+NG,North Gloucester,J,Juvenile,JEF,Juvenile Fiction,1352,799
+NG,North Gloucester,J,Juvenile,JENF,Juvenile Non-Fiction,1198,800
+RM,Richmond,ADULT,Adult,AEM,Adult English Mystery,1777,801
+VA,Vanier,J,Juvenile,TEENFF,Teen French Fiction,38,802
+RM,Richmond,ADULT,Adult,AENF,Adult English Non-Fiction,3593,803
+RM,Richmond,ADULT,Adult,AFCD,Adult French Books On CD,1,804
+RM,Richmond,ADULT,Adult,AFF,Adult French Fiction,30,805
+RM,Richmond,ADULT,Adult,AFNF,Adult French Fiction,57,806
+RM,Richmond,ADULT,Adult,JEF,Juvenile Fiction,1008,807
+RD,Ruth E. Dickinson,J,Juvenile,AENF,Adult English Non-Fiction,2128,808
+RM,Richmond,ADULT,Adult,JENF,Juvenile Non-Fiction,1560,809
+RM,Richmond,ADULT,Adult,TEENEBCD,Teen English Books On CD,3,810
+RO,Rosemount,YA_17,Young Adult,AEM,Adult English Mystery,6,811
+RM,Richmond,ADULT,Adult,TEENEF,Teen English Fiction,336,812
+RM,Richmond,ADULT,Adult,TEENENF,Teen English Non-Fiction,12,813
+RM,Richmond,ADULT,Adult,TEENFF,Teen French Fiction,2,814
+RM,Richmond,J,Juvenile,AECD,Adult English Books On CD,2,815
+VA,Vanier,J,Juvenile,TEENFNF,Teen French Non-Fiction,2,816
+RM,Richmond,J,Juvenile,AEF,Adult English Fiction,53,817
+RM,Richmond,J,Juvenile,AEM,Adult English Mystery,17,818
+RM,Richmond,J,Juvenile,AENF,Adult English Non-Fiction,262,819
+RM,Richmond,J,Juvenile,AFF,Adult French Fiction,1,820
+RM,Richmond,J,Juvenile,AFNF,Adult French Fiction,1,821
+RM,Richmond,J,Juvenile,JEF,Juvenile Fiction,256,822
+RM,Richmond,J,Juvenile,JENF,Juvenile Non-Fiction,328,823
+RM,Richmond,J,Juvenile,TEENEBCD,Teen English Books On CD,3,824
+RM,Richmond,J,Juvenile,TEENEF,Teen English Fiction,102,825
+RM,Richmond,J,Juvenile,TEENENF,Teen English Non-Fiction,1,826
+RM,Richmond,J,Juvenile,TEENFF,Teen French Fiction,1,827
+RM,Richmond,YA_17,Young Adult,AEF,Adult English Fiction,1,828
+RM,Richmond,YA_17,Young Adult,JEF,Juvenile Fiction,1,829
+RM,Richmond,YA_17,Young Adult,JENF,Juvenile Non-Fiction,1,830
+RM,Richmond,YA_17,Young Adult,TEENEF,Teen English Fiction,2,831
+RO,Rosemount,ADULT,Adult,AECD,Adult English Books On CD,727,832
+RO,Rosemount,ADULT,Adult,AEF,Adult English Fiction,17803,833
+RO,Rosemount,ADULT,Adult,AEM,Adult English Mystery,5977,834
+RO,Rosemount,ADULT,Adult,AENF,Adult English Non-Fiction,31735,835
+RO,Rosemount,ADULT,Adult,AFCD,Adult French Books On CD,31,836
+RO,Rosemount,ADULT,Adult,AFF,Adult French Fiction,1114,837
+RO,Rosemount,ADULT,Adult,AFNF,Adult French Fiction,1300,838
+RO,Rosemount,ADULT,Adult,JEF,Juvenile Fiction,4826,839
+RO,Rosemount,ADULT,Adult,JENF,Juvenile Non-Fiction,6072,840
+RO,Rosemount,ADULT,Adult,JFCD,Juvenile French Books On CD,3,841
+RO,Rosemount,ADULT,Adult,KIOSK,Kiosk Items,4,842
+RO,Rosemount,ADULT,Adult,TEENEBCD,Teen English Books On CD,21,843
+RO,Rosemount,ADULT,Adult,TEENEF,Teen English Fiction,1851,844
+RO,Rosemount,ADULT,Adult,TEENENF,Teen English Non-Fiction,229,845
+RO,Rosemount,ADULT,Adult,TEENFF,Teen French Fiction,75,846
+RO,Rosemount,ADULT,Adult,TEENFNF,Teen French Non-Fiction,3,847
+RO,Rosemount,J,Juvenile,AECD,Adult English Books On CD,3,848
+RO,Rosemount,J,Juvenile,AEF,Adult English Fiction,272,849
+RO,Rosemount,J,Juvenile,AEM,Adult English Mystery,33,850
+RO,Rosemount,J,Juvenile,AENF,Adult English Non-Fiction,450,851
+RO,Rosemount,J,Juvenile,AFF,Adult French Fiction,9,852
+RO,Rosemount,J,Juvenile,AFNF,Adult French Fiction,30,853
+RO,Rosemount,J,Juvenile,JEF,Juvenile Fiction,1349,854
+RO,Rosemount,J,Juvenile,JENF,Juvenile Non-Fiction,1263,855
+RO,Rosemount,J,Juvenile,JFCD,Juvenile French Books On CD,2,856
+RO,Rosemount,J,Juvenile,TEENEBCD,Teen English Books On CD,11,857
+RO,Rosemount,J,Juvenile,TEENEF,Teen English Fiction,437,858
+RO,Rosemount,J,Juvenile,TEENENF,Teen English Non-Fiction,28,859
+RO,Rosemount,J,Juvenile,TEENFF,Teen French Fiction,21,860
+RO,Rosemount,YA_17,Young Adult,AEF,Adult English Fiction,20,861
+SU,Sunnyside,ADULT,Adult,AENF,Adult English Non-Fiction,38922,862
+SL,St-Laurent,J,Juvenile,AFNF,Adult French Fiction,91,863
+RD,Ruth E. Dickinson,J,Juvenile,AFCD,Adult French Books On CD,2,864
+VA,Vanier,YA_17,Young Adult,AEF,Adult English Fiction,17,865
+RD,Ruth E. Dickinson,J,Juvenile,AFF,Adult French Fiction,32,866
+RO,Rosemount,YA_17,Young Adult,AENF,Adult English Non-Fiction,36,867
+SL,St-Laurent,J,Juvenile,JEF,Juvenile Fiction,1335,868
+VA,Vanier,YA_17,Young Adult,AEM,Adult English Mystery,1,869
+RD,Ruth E. Dickinson,J,Juvenile,AFNF,Adult French Fiction,56,870
+RO,Rosemount,YA_17,Young Adult,AFNF,Adult French Fiction,1,871
+SL,St-Laurent,J,Juvenile,JENF,Juvenile Non-Fiction,1211,872
+VA,Vanier,YA_17,Young Adult,JEF,Juvenile Fiction,1,873
+VA,Vanier,YA_17,Young Adult,TEENEBCD,Teen English Books On CD,2,874
+VA,Vanier,YA_17,Young Adult,TEENEF,Teen English Fiction,12,875
+VE,Vernon,ADULT,Adult,AECD,Adult English Books On CD,10,876
+VE,Vernon,ADULT,Adult,AEF,Adult English Fiction,264,877
+VE,Vernon,ADULT,Adult,AEM,Adult English Mystery,66,878
+VE,Vernon,ADULT,Adult,AENF,Adult English Non-Fiction,1339,879
+VE,Vernon,ADULT,Adult,AFF,Adult French Fiction,1,880
+VE,Vernon,ADULT,Adult,AFNF,Adult French Fiction,8,881
+VE,Vernon,ADULT,Adult,JEF,Juvenile Fiction,192,882
+VE,Vernon,ADULT,Adult,JENF,Juvenile Non-Fiction,492,883
+VE,Vernon,ADULT,Adult,TEENEBCD,Teen English Books On CD,4,884
+VE,Vernon,ADULT,Adult,TEENEF,Teen English Fiction,34,885
+VE,Vernon,ADULT,Adult,TEENENF,Teen English Non-Fiction,70,886
+VE,Vernon,J,Juvenile,AEF,Adult English Fiction,5,887
+VE,Vernon,J,Juvenile,AENF,Adult English Non-Fiction,16,888
+VE,Vernon,J,Juvenile,JEF,Juvenile Fiction,93,889
+VE,Vernon,J,Juvenile,JENF,Juvenile Non-Fiction,171,890
+VE,Vernon,J,Juvenile,TEENEF,Teen English Fiction,7,891
+VE,Vernon,J,Juvenile,TEENENF,Teen English Non-Fiction,1,892
+ZBO,Bookmobile,ADULT,Adult,AECD,Adult English Books On CD,48,893
+ZBO,Bookmobile,ADULT,Adult,AEF,Adult English Fiction,2872,894
+ZBO,Bookmobile,ADULT,Adult,AEM,Adult English Mystery,790,895
+ZBO,Bookmobile,ADULT,Adult,AENF,Adult English Non-Fiction,4348,896
+ZBO,Bookmobile,ADULT,Adult,AFCD,Adult French Books On CD,1,897
+ZBO,Bookmobile,ADULT,Adult,AFF,Adult French Fiction,257,898
+ZBO,Bookmobile,ADULT,Adult,AFNF,Adult French Fiction,233,899
+ZBO,Bookmobile,ADULT,Adult,JEF,Juvenile Fiction,1070,900
+ZBO,Bookmobile,ADULT,Adult,JENF,Juvenile Non-Fiction,2121,901
+ZBO,Bookmobile,ADULT,Adult,JFCD,Juvenile French Books On CD,5,902
+ZBO,Bookmobile,ADULT,Adult,KIOSK,Kiosk Items,13,903
+ZBO,Bookmobile,ADULT,Adult,TEENEF,Teen English Fiction,268,904
+ZBO,Bookmobile,ADULT,Adult,TEENENF,Teen English Non-Fiction,13,905
+ZBO,Bookmobile,ADULT,Adult,TEENFF,Teen French Fiction,22,906
+ZBO,Bookmobile,J,Juvenile,AEF,Adult English Fiction,157,907
+ZBO,Bookmobile,J,Juvenile,AEM,Adult English Mystery,11,908
+ZBO,Bookmobile,J,Juvenile,AENF,Adult English Non-Fiction,237,909
+ZBO,Bookmobile,J,Juvenile,AFF,Adult French Fiction,5,910
+ZBO,Bookmobile,J,Juvenile,AFNF,Adult French Fiction,2,911
+ZBO,Bookmobile,J,Juvenile,JEF,Juvenile Fiction,729,912
+ZBO,Bookmobile,J,Juvenile,JENF,Juvenile Non-Fiction,988,913
+ZBO,Bookmobile,J,Juvenile,KIOSK,Kiosk Items,2,914
+ZBO,Bookmobile,J,Juvenile,TEENEBCD,Teen English Books On CD,2,915
+ZBO,Bookmobile,J,Juvenile,TEENEF,Teen English Fiction,195,916
+ZBO,Bookmobile,J,Juvenile,TEENENF,Teen English Non-Fiction,9,917
+ZBO,Bookmobile,YA_17,Young Adult,AEF,Adult English Fiction,2,918
+ZBO,Bookmobile,YA_17,Young Adult,AENF,Adult English Non-Fiction,1,919
+ZBO,Bookmobile,YA_17,Young Adult,JEF,Juvenile Fiction,18,920
+ZBO,Bookmobile,YA_17,Young Adult,JENF,Juvenile Non-Fiction,2,921
+ZBO,Bookmobile,YA_17,Young Adult,TEENEF,Teen English Fiction,3,922
+SU,Sunnyside,ADULT,Adult,AFCD,Adult French Books On CD,42,923
+RO,Rosemount,YA_17,Young Adult,TEENEF,Teen English Fiction,2,924
+RD,Ruth E. Dickinson,J,Juvenile,JEF,Juvenile Fiction,7154,925
+SL,St-Laurent,J,Juvenile,JFCD,Juvenile French Books On CD,4,926
+RO,Rosemount,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,1,927
+RD,Ruth E. Dickinson,J,Juvenile,JENF,Juvenile Non-Fiction,6051,928
+SL,St-Laurent,J,Juvenile,TEENEF,Teen English Fiction,365,929
+RD,Ruth E. Dickinson,J,Juvenile,JFCD,Juvenile French Books On CD,3,930
+RP,Rockcliffe Park,ADULT,Adult,AECD,Adult English Books On CD,245,931
+RD,Ruth E. Dickinson,J,Juvenile,KIOSK,Kiosk Items,1,932
+SL,St-Laurent,J,Juvenile,TEENENF,Teen English Non-Fiction,39,933
+RD,Ruth E. Dickinson,J,Juvenile,TEENEBCD,Teen English Books On CD,6,934
+RP,Rockcliffe Park,ADULT,Adult,AEF,Adult English Fiction,6359,935
+SL,St-Laurent,J,Juvenile,TEENFF,Teen French Fiction,103,936
+RD,Ruth E. Dickinson,J,Juvenile,TEENEF,Teen English Fiction,1714,937
+SU,Sunnyside,ADULT,Adult,AFF,Adult French Fiction,1329,938
+SL,St-Laurent,J,Juvenile,TEENFNF,Teen French Non-Fiction,5,939
+RP,Rockcliffe Park,ADULT,Adult,AEM,Adult English Mystery,1991,940
+RD,Ruth E. Dickinson,J,Juvenile,TEENENF,Teen English Non-Fiction,197,941
+SU,Sunnyside,ADULT,Adult,AFNF,Adult French Fiction,1235,942
+SL,St-Laurent,YA_17,Young Adult,AEF,Adult English Fiction,10,943
+RP,Rockcliffe Park,ADULT,Adult,AENF,Adult English Non-Fiction,9684,944
+RD,Ruth E. Dickinson,J,Juvenile,TEENFF,Teen French Fiction,141,945
+SU,Sunnyside,ADULT,Adult,JEF,Juvenile Fiction,6304,946
+SL,St-Laurent,YA_17,Young Adult,AENF,Adult English Non-Fiction,31,947
+RP,Rockcliffe Park,ADULT,Adult,AFCD,Adult French Books On CD,18,948
+RD,Ruth E. Dickinson,J,Juvenile,TEENFNF,Teen French Non-Fiction,1,949
+SU,Sunnyside,ADULT,Adult,JENF,Juvenile Non-Fiction,8019,950
+SL,St-Laurent,YA_17,Young Adult,AFF,Adult French Fiction,6,951
+RP,Rockcliffe Park,ADULT,Adult,AFF,Adult French Fiction,413,952
+RD,Ruth E. Dickinson,YA_17,Young Adult,AEF,Adult English Fiction,85,953
+SU,Sunnyside,ADULT,Adult,JFCD,Juvenile French Books On CD,20,954
+SL,St-Laurent,YA_17,Young Adult,AFNF,Adult French Fiction,17,955
+RP,Rockcliffe Park,ADULT,Adult,AFNF,Adult French Fiction,549,956
+RD,Ruth E. Dickinson,YA_17,Young Adult,AEM,Adult English Mystery,20,957
+SU,Sunnyside,ADULT,Adult,TEENEBCD,Teen English Books On CD,29,958
+SL,St-Laurent,YA_17,Young Adult,JEF,Juvenile Fiction,12,959
+RP,Rockcliffe Park,ADULT,Adult,JEF,Juvenile Fiction,1707,960
+RD,Ruth E. Dickinson,YA_17,Young Adult,AENF,Adult English Non-Fiction,206,961
+SU,Sunnyside,ADULT,Adult,TEENEF,Teen English Fiction,1921,962
+SL,St-Laurent,YA_17,Young Adult,TEENEF,Teen English Fiction,12,963
+RP,Rockcliffe Park,ADULT,Adult,JENF,Juvenile Non-Fiction,2433,964
+RD,Ruth E. Dickinson,YA_17,Young Adult,AFF,Adult French Fiction,1,965
+SU,Sunnyside,ADULT,Adult,TEENENF,Teen English Non-Fiction,267,966
+SL,St-Laurent,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,1,967
+RP,Rockcliffe Park,ADULT,Adult,JFCD,Juvenile French Books On CD,3,968
+RD,Ruth E. Dickinson,YA_17,Young Adult,AFNF,Adult French Fiction,7,969
+SU,Sunnyside,ADULT,Adult,TEENFF,Teen French Fiction,96,970
+SL,St-Laurent,YA_17,Young Adult,TEENFNF,Teen French Non-Fiction,1,971
+RP,Rockcliffe Park,ADULT,Adult,TEENEBCD,Teen English Books On CD,2,972
+RD,Ruth E. Dickinson,YA_17,Young Adult,JEF,Juvenile Fiction,7,973
+SU,Sunnyside,J,Juvenile,AECD,Adult English Books On CD,4,974
+ST,Stittsville,ADULT,Adult,AECD,Adult English Books On CD,855,975
+RP,Rockcliffe Park,ADULT,Adult,TEENEF,Teen English Fiction,407,976
+RD,Ruth E. Dickinson,YA_17,Young Adult,JENF,Juvenile Non-Fiction,18,977
+SU,Sunnyside,J,Juvenile,AEF,Adult English Fiction,390,978
+ST,Stittsville,ADULT,Adult,AEF,Adult English Fiction,14477,979
+RP,Rockcliffe Park,ADULT,Adult,TEENENF,Teen English Non-Fiction,30,980
+RD,Ruth E. Dickinson,YA_17,Young Adult,TEENEF,Teen English Fiction,82,981
+SU,Sunnyside,J,Juvenile,AEM,Adult English Mystery,70,982
+ST,Stittsville,ADULT,Adult,AEM,Adult English Mystery,6690,983
+ST,Stittsville,ADULT,Adult,AENF,Adult English Non-Fiction,19375,984
+ST,Stittsville,ADULT,Adult,AFCD,Adult French Books On CD,11,985
+ST,Stittsville,ADULT,Adult,AFF,Adult French Fiction,547,986
+ST,Stittsville,ADULT,Adult,AFNF,Adult French Fiction,779,987
+ST,Stittsville,ADULT,Adult,JEF,Juvenile Fiction,5796,988
+ST,Stittsville,ADULT,Adult,JENF,Juvenile Non-Fiction,7857,989
+ST,Stittsville,ADULT,Adult,TEENEBCD,Teen English Books On CD,10,990
+ST,Stittsville,ADULT,Adult,TEENEF,Teen English Fiction,1292,991
+ST,Stittsville,ADULT,Adult,TEENENF,Teen English Non-Fiction,76,992
+ST,Stittsville,ADULT,Adult,TEENFF,Teen French Fiction,43,993
+ST,Stittsville,ADULT,Adult,TEENFNF,Teen French Non-Fiction,2,994
+ST,Stittsville,J,Juvenile,AECD,Adult English Books On CD,5,995
+ST,Stittsville,J,Juvenile,AEF,Adult English Fiction,314,996
+ST,Stittsville,J,Juvenile,AEM,Adult English Mystery,64,997
+ST,Stittsville,J,Juvenile,AENF,Adult English Non-Fiction,710,998
+ST,Stittsville,J,Juvenile,AFCD,Adult French Books On CD,1,999
+ST,Stittsville,J,Juvenile,AFF,Adult French Fiction,7,1000
+ST,Stittsville,J,Juvenile,AFNF,Adult French Fiction,10,1001
+ST,Stittsville,J,Juvenile,JEF,Juvenile Fiction,2463,1002
+ST,Stittsville,J,Juvenile,JENF,Juvenile Non-Fiction,2223,1003
+ST,Stittsville,J,Juvenile,JFCD,Juvenile French Books On CD,1,1004
+ST,Stittsville,J,Juvenile,TEENEBCD,Teen English Books On CD,1,1005
+ST,Stittsville,J,Juvenile,TEENEF,Teen English Fiction,767,1006
+ST,Stittsville,J,Juvenile,TEENENF,Teen English Non-Fiction,22,1007
+ST,Stittsville,J,Juvenile,TEENFF,Teen French Fiction,1,1008
+ST,Stittsville,YA_17,Young Adult,AECD,Adult English Books On CD,1,1009
+ST,Stittsville,YA_17,Young Adult,AEF,Adult English Fiction,121,1010
+ST,Stittsville,YA_17,Young Adult,AEM,Adult English Mystery,8,1011
+ST,Stittsville,YA_17,Young Adult,AENF,Adult English Non-Fiction,41,1012
+ST,Stittsville,YA_17,Young Adult,AFF,Adult French Fiction,1,1013
+ST,Stittsville,YA_17,Young Adult,AFNF,Adult French Fiction,1,1014
+ST,Stittsville,YA_17,Young Adult,JEF,Juvenile Fiction,6,1015
+ST,Stittsville,YA_17,Young Adult,JENF,Juvenile Non-Fiction,7,1016
+ST,Stittsville,YA_17,Young Adult,TEENEBCD,Teen English Books On CD,1,1017
+ST,Stittsville,YA_17,Young Adult,TEENEF,Teen English Fiction,40,1018
+SU,Sunnyside,ADULT,Adult,AECD,Adult English Books On CD,1128,1019
+SU,Sunnyside,ADULT,Adult,AEF,Adult English Fiction,21864,1020
+SU,Sunnyside,ADULT,Adult,AEM,Adult English Mystery,8966,1021
+RD,Ruth E. Dickinson,YA_17,Young Adult,TEENFF,Teen French Fiction,10,1022
+SU,Sunnyside,J,Juvenile,AENF,Adult English Non-Fiction,714,1023
+RP,Rockcliffe Park,ADULT,Adult,TEENFF,Teen French Fiction,7,1024
+RD,Ruth E. Dickinson,YA_17,Young Adult,TEENFNF,Teen French Non-Fiction,1,1025
+SU,Sunnyside,J,Juvenile,AFF,Adult French Fiction,18,1026
+RP,Rockcliffe Park,ADULT,Adult,TEENFNF,Teen French Non-Fiction,3,1027
+RI,Rideau,ADULT,Adult,AECD,Adult English Books On CD,568,1028
+SU,Sunnyside,J,Juvenile,AFNF,Adult French Fiction,37,1029
+RP,Rockcliffe Park,J,Juvenile,AEF,Adult English Fiction,137,1030
+RI,Rideau,ADULT,Adult,AEF,Adult English Fiction,7440,1031
+SU,Sunnyside,J,Juvenile,JEF,Juvenile Fiction,2339,1032
+RP,Rockcliffe Park,J,Juvenile,AEM,Adult English Mystery,33,1033
+RI,Rideau,ADULT,Adult,AEM,Adult English Mystery,2287,1034
+SU,Sunnyside,J,Juvenile,JENF,Juvenile Non-Fiction,2094,1035
+RP,Rockcliffe Park,J,Juvenile,AENF,Adult English Non-Fiction,273,1036
+RI,Rideau,ADULT,Adult,AENF,Adult English Non-Fiction,12254,1037
+SU,Sunnyside,J,Juvenile,TEENEBCD,Teen English Books On CD,8,1038
+RP,Rockcliffe Park,J,Juvenile,AFF,Adult French Fiction,5,1039
+RI,Rideau,ADULT,Adult,AFCD,Adult French Books On CD,30,1040
+SU,Sunnyside,J,Juvenile,TEENEF,Teen English Fiction,843,1041
+RP,Rockcliffe Park,J,Juvenile,AFNF,Adult French Fiction,7,1042
+RI,Rideau,ADULT,Adult,AFF,Adult French Fiction,1913,1043
+SU,Sunnyside,J,Juvenile,TEENENF,Teen English Non-Fiction,23,1044
+RP,Rockcliffe Park,J,Juvenile,JEF,Juvenile Fiction,1111,1045
+RI,Rideau,ADULT,Adult,AFNF,Adult French Fiction,1728,1046
+SU,Sunnyside,J,Juvenile,TEENFBCD,Teen French Books On CD,1,1047
+RP,Rockcliffe Park,J,Juvenile,JENF,Juvenile Non-Fiction,1106,1048
+RI,Rideau,ADULT,Adult,JEF,Juvenile Fiction,1052,1049
+SU,Sunnyside,J,Juvenile,TEENFF,Teen French Fiction,43,1050
+RP,Rockcliffe Park,J,Juvenile,TEENEBCD,Teen English Books On CD,1,1051
+RI,Rideau,ADULT,Adult,JENF,Juvenile Non-Fiction,1686,1052
+SU,Sunnyside,YA_17,Young Adult,AECD,Adult English Books On CD,1,1053
+RP,Rockcliffe Park,J,Juvenile,TEENEF,Teen English Fiction,187,1054
+RI,Rideau,ADULT,Adult,JFCD,Juvenile French Books On CD,3,1055
+SU,Sunnyside,YA_17,Young Adult,AEF,Adult English Fiction,38,1056
+RP,Rockcliffe Park,J,Juvenile,TEENENF,Teen English Non-Fiction,3,1057
+RI,Rideau,ADULT,Adult,TEENEBCD,Teen English Books On CD,8,1058
+SU,Sunnyside,YA_17,Young Adult,AEM,Adult English Mystery,2,1059
+RP,Rockcliffe Park,J,Juvenile,TEENFF,Teen French Fiction,3,1060
+RI,Rideau,ADULT,Adult,TEENEF,Teen English Fiction,701,1061
+SU,Sunnyside,YA_17,Young Adult,AENF,Adult English Non-Fiction,29,1062
+RP,Rockcliffe Park,YA_17,Young Adult,AECD,Adult English Books On CD,1,1063
+RI,Rideau,ADULT,Adult,TEENENF,Teen English Non-Fiction,53,1064
+SU,Sunnyside,YA_17,Young Adult,AFF,Adult French Fiction,1,1065
+RP,Rockcliffe Park,YA_17,Young Adult,AEF,Adult English Fiction,5,1066
+RI,Rideau,ADULT,Adult,TEENFBCD,Teen French Books On CD,1,1067
+SU,Sunnyside,YA_17,Young Adult,JEF,Juvenile Fiction,1,1068
+RP,Rockcliffe Park,YA_17,Young Adult,AENF,Adult English Non-Fiction,1,1069
+RI,Rideau,ADULT,Adult,TEENFF,Teen French Fiction,44,1070
+SU,Sunnyside,YA_17,Young Adult,TEENEF,Teen English Fiction,24,1071
+RP,Rockcliffe Park,YA_17,Young Adult,AFF,Adult French Fiction,1,1072
+RI,Rideau,ADULT,Adult,TEENFNF,Teen French Non-Fiction,3,1073
+VA,Vanier,ADULT,Adult,AECD,Adult English Books On CD,109,1074
+RP,Rockcliffe Park,YA_17,Young Adult,TEENEF,Teen English Fiction,1,1075
+RI,Rideau,J,Juvenile,AEF,Adult English Fiction,51,1076
+VA,Vanier,ADULT,Adult,AEF,Adult English Fiction,3388,1077
+RP,Rockcliffe Park,YA_17,Young Adult,TEENENF,Teen English Non-Fiction,1,1078
+RI,Rideau,J,Juvenile,AEM,Adult English Mystery,5,1079
+VA,Vanier,ADULT,Adult,AEM,Adult English Mystery,872,1080
+SL,St-Laurent,ADULT,Adult,AECD,Adult English Books On CD,486,1081
+RI,Rideau,J,Juvenile,AENF,Adult English Non-Fiction,71,1082
+VA,Vanier,ADULT,Adult,AENF,Adult English Non-Fiction,7111,1083
+SL,St-Laurent,ADULT,Adult,AEF,Adult English Fiction,8818,1084
+RI,Rideau,J,Juvenile,AFF,Adult French Fiction,8,1085
+VA,Vanier,ADULT,Adult,AFCD,Adult French Books On CD,20,1086
+SL,St-Laurent,ADULT,Adult,AEM,Adult English Mystery,2829,1087
+RI,Rideau,J,Juvenile,AFNF,Adult French Fiction,17,1088
+VA,Vanier,ADULT,Adult,AFF,Adult French Fiction,1766,1089
+SL,St-Laurent,ADULT,Adult,AENF,Adult English Non-Fiction,13693,1090
+RI,Rideau,J,Juvenile,JEF,Juvenile Fiction,201,1091
+VA,Vanier,ADULT,Adult,AFNF,Adult French Fiction,1243,1092
+RI,Rideau,J,Juvenile,JENF,Juvenile Non-Fiction,320,1093
+SL,St-Laurent,ADULT,Adult,AFCD,Adult French Books On CD,64,1094
+RI,Rideau,J,Juvenile,TEENEF,Teen English Fiction,71,1095
+VA,Vanier,ADULT,Adult,JEF,Juvenile Fiction,1056,1096
+RI,Rideau,J,Juvenile,TEENENF,Teen English Non-Fiction,3,1097
+SL,St-Laurent,ADULT,Adult,AFF,Adult French Fiction,4365,1098
+VA,Vanier,ADULT,Adult,JENF,Juvenile Non-Fiction,1572,1099
+RI,Rideau,J,Juvenile,TEENFF,Teen French Fiction,31,1100
+SL,St-Laurent,ADULT,Adult,AFNF,Adult French Fiction,3819,1101
+VA,Vanier,ADULT,Adult,JFCD,Juvenile French Books On CD,36,1102
+RI,Rideau,YA_17,Young Adult,AEF,Adult English Fiction,21,1103
+SL,St-Laurent,ADULT,Adult,JEF,Juvenile Fiction,2523,1104
+VA,Vanier,ADULT,Adult,TEENEBCD,Teen English Books On CD,1,1105
+RI,Rideau,YA_17,Young Adult,AENF,Adult English Non-Fiction,11,1106
+SL,St-Laurent,ADULT,Adult,JENF,Juvenile Non-Fiction,3843,1107
+VA,Vanier,ADULT,Adult,TEENEF,Teen English Fiction,271,1108
+RI,Rideau,YA_17,Young Adult,AFF,Adult French Fiction,8,1109
+SL,St-Laurent,ADULT,Adult,JFCD,Juvenile French Books On CD,9,1110
+VA,Vanier,ADULT,Adult,TEENENF,Teen English Non-Fiction,18,1111
+RI,Rideau,YA_17,Young Adult,AFNF,Adult French Fiction,1,1112
+SL,St-Laurent,ADULT,Adult,TEENEBCD,Teen English Books On CD,5,1113
+VA,Vanier,ADULT,Adult,TEENFF,Teen French Fiction,147,1114
+RI,Rideau,YA_17,Young Adult,JENF,Juvenile Non-Fiction,2,1115
+SL,St-Laurent,ADULT,Adult,TEENEF,Teen English Fiction,759,1116
+VA,Vanier,ADULT,Adult,TEENFNF,Teen French Non-Fiction,2,1117
+RI,Rideau,YA_17,Young Adult,TEENEF,Teen English Fiction,8,1118
+SL,St-Laurent,ADULT,Adult,TEENENF,Teen English Non-Fiction,101,1119
+VA,Vanier,J,Juvenile,AECD,Adult English Books On CD,26,1120
+RM,Richmond,ADULT,Adult,AECD,Adult English Books On CD,226,1121
+SL,St-Laurent,ADULT,Adult,TEENFF,Teen French Fiction,129,1122
+VA,Vanier,J,Juvenile,AEF,Adult English Fiction,65,1123
+RM,Richmond,ADULT,Adult,AEF,Adult English Fiction,3997,1124
+SL,St-Laurent,ADULT,Adult,TEENFNF,Teen French Non-Fiction,14,1125
+VA,Vanier,J,Juvenile,AEM,Adult English Mystery,6,1126
+SL,St-Laurent,J,Juvenile,AECD,Adult English Books On CD,1,1127
+VA,Vanier,J,Juvenile,AENF,Adult English Non-Fiction,472,1128
+SL,St-Laurent,J,Juvenile,AEF,Adult English Fiction,253,1129
+VA,Vanier,J,Juvenile,AFF,Adult French Fiction,32,1130
+SL,St-Laurent,J,Juvenile,AEM,Adult English Mystery,60,1131
+VA,Vanier,J,Juvenile,AFNF,Adult French Fiction,69,1132
+SL,St-Laurent,J,Juvenile,AENF,Adult English Non-Fiction,467,1133
+VA,Vanier,J,Juvenile,JEF,Juvenile Fiction,439,1134
+SL,St-Laurent,J,Juvenile,AFF,Adult French Fiction,70,1135
+VA,Vanier,J,Juvenile,JENF,Juvenile Non-Fiction,542,1136
+VA,Vanier,J,Juvenile,JFCD,Juvenile French Books On CD,2,1137
+VA,Vanier,J,Juvenile,TEENEF,Teen English Fiction,72,1138
+VA,Vanier,J,Juvenile,TEENENF,Teen English Non-Fiction,8,1139
